@@ -1,0 +1,1026 @@
+web-scraper-order,text,section,topic,urls,userMentions,isReply,emojis,Expression of emotions,Use of humor,Self-disclosure,Referring explicitly to others' messages,Asking questions,"Complimenting, expressing appreciation or criticism",Expressing agreement or disagreement,"Phatics, salutations"
+1604198662-928,"Hi did you fix this bug?
+",bugreports,Subject 11057234,,,TRUE,,0,0,0,0,1,0,0,1
+1604198796-1345,"I have never been  quite certain that the X axis is exactly Y=10. Have you been able to confirm this?
+",bugreports,RFE: An easy way to read off feature frequencies,,,,,0,0,1,0,1,0,0,0
+1604198776-1275,"
+Because I can understand it is of immense interest to you and other GSpiers
+
+As I think is very clear, at least some volunteers are strongly motivated by seeing how quickly a project is moving along, as measured by Completed Subject (retired images, ...). To be sure, our motivations are many, and while there's a commonality, there are also very considerable differences.
+Here's a personal one: to me, if a project is going to display ""statistics"" - as all (?) Panoptes-based ones do - it is vital to ensure what's displayed is both accurate and meaningful, OR have an easily accessible source explaining why such info is not (accurate or meaningful). After all, what's the point of having such info so prominent if it's known to be neither accurate nor meaningful? To me, a project which can't get this right is very likely full of all sorts of other bugs and nasties; perhaps the individual stats (i.e. 'mine') are off too? perhaps credit is randomly given out? perhaps some random fraction of my clicks go unrecorded? ... At least in Backyard Worlds there was a response (when I raised these sorts of questions); here?
+Don't get me wrong: GS is a fantastic project, not only for its subject (GWR at LIGO), but also for its innovation in the use of ML. However, I am so bemused by why none of the PTB seem to treat the 'stats' question seriously that I rarely spend time here any more ... 
+",bugreports,Statistics not updating on Gravity Spy home page,,,TRUE,😦,1,0,1,0,0,0,0,0
+1604198884-1593,"And working again.
+(A Schrödinger tool, as we'd call it at work here. )
+",bugreports,Gravity Spy Tools down,,,,😃,1,1,1,0,0,0,0,0
+1604197902-62,"I did occasionally. Reloading the site helps to me. Thanks @eperozzi for reporting.
+Another small thing to report: on Level5 the example subjects of the two new classes (1080Hz and 1400Hz ripple) are missing.
+@sbc538
+",bugreports,Already Seen keeps coming up,/users/eperozzi;/users/sbc538,@eperozzi;@sbc538,,,0,0,0,1,0,0,0,0
+1604198861-1514,"Thanks for responding to this comment, it's always nice to know that someone is listening and things just aren't going into a void.
+I agree that it's kind of silly to have to mouse back and forth.
+Though maybe auto-play isn't the way to go, I think this suggestion warrants more attention. Here are two additional ideas that could remove the need for moving the mouse around.
+
+Having the focus of the browser default to the viewing window so that the arrow keys can be used to toggle between the time scales.
+Displaying both the shortest timescale and the longest timescale simultaneously. They could be displayed the same size or one of them smaller than the other with an option to toggle which one is larger.
+
+You mention that in the more advanced levels more time is needed to carefully consider the image and it can't be quickly classified, but for those of thus that are still sitting around level 3, a more streamlined user interface would help us get to those advanced classifications more quickly.
+Yes, the current interface is ""good enough"" but that doesn't mean you shouldn't consider improving it, if it can be relatively easily done.
+",bugreports,An idea to make the user interaction much faster,,,,,1,0,0,1,0,1,1,0
+1604198776-1272,"On top of the fact that GS has no fixed classification count when it comes to subject retirement ...
+It also, according to the GS-team, allows for NOTA subject cases to move up from a lower level to a higher level. This last part, for example, makes it a theoretical possibility for level 3 and level 4 to go to 100% completion, while having no effect on the global completion level. In such a case the level 5 completion level would of course go down, to account for the increase in subjects in that level.
+(that's L3 => L4 => L5, and not L3 => L5 AND L4 => L5)
+Additional note on not having a fixed classification retirement trigger. Is that with a fixed retirement count, single classification actions can be accounted for in the statistics. For a process that, in effect, has a variable & unknown retirement count, you can't (well ... at least not based on counting actual classification actions).
+So in effect: GS completion stats are limited to counting subject transition cases. Or: is blind to classification actions that do not result in some kind of subject transition action.
+
+
+gravity spy completion percentages are always rounded down
+
+Correct (fact, as far as I'm concerned)
+rounding
+",bugreports,Statistics not updating on Gravity Spy home page,en.wikipedia.org/wiki/Rounding#Rounding_to_integer,,,,0,0,0,0,0,0,0,0
+1604198738-1190,"FWIW: I'm approaching 16000 classifications at level 5 (classifications at level 6 don't count for this purpose) with level 7 not yet unlocked, and given that it took about 6000 at level 4 to unlock level 5, I am not yet worried. Having to do 20000 or 36000 would not surprise me. Far be it from me to complain; I'm having fun. 
+What I do find a bit odd is that I occasionally see expert-labelled sanity checks from O1 of only some classes but not others:  1400 Ripple, Helix, Light Modulation, Paired Doves, Tomte, and Wandering Line do come up from time to time in level 5.  I have not seen a single expert vetted 1080 Line or Scratchy or Violin Mode Harmonic (or any of the others) in all of level 5, IIRC. Is it still possible to fill in all the blanks in the confusion matrix, or are there some classes for which sanity-check examples are missing entirely from level 5 but which are still being checked for contributors' consistency/confusion...? @sbc538
+A minor suggestion for a possible improvement: If the experts could spare the time, could some expert-labelled examples from O3 be added? By now, O3 Subjects vastly outnumber O1 with more being added every day, and even aside from new classes that never came up in O1, they do look a little different: Already the noise background is different enough that I can usually tell an O3 subject from an O1 without even looking at it, just from the corner of the eye. Thus the O1 sanity checks punctuating my mostly-O3 flow are a little distracting - they're too obvious to ever catch me by surprise, and they don't entirely fit the eye-brain calibration needed for the O3 subjects. Diluting them in a pool of newer expert examples would thus make the sanity checking more realistic. E.g. replace some O1 Tomtes with O3 Tomtes. Ideally, add some Crowns and HF bursts, and remove Helix and perhaps Paired Doves from the level 5 matrix (I doubt whether those two have ever re-occurred in O3...?).
+Cheers, Gerhard
+(NB O1-vintage Paired Doves still do serve one good purpose in level 5 - they act as a reminder to always look at frame 4. But once one has made a habit of this... )
+",bugreports,Demoted from seven to one...arrgghh,/users/sbc538,@sbc538,TRUE,😃;😃,1,0,1,0,1,1,0,0
+1604198884-1603,"It's working fine again - thanks a lot for the quick response!
+",bugreports,Gravity Spy Tools down,,,TRUE,,1,0,0,0,0,1,0,0
+1604008614-2318,"You would never guess this is a Lingston ER13 glitch. It looks exactly like a fireball!
+",chat,Fireball,/projects/zooniverse/gravity-spy/talk/subjects/28681623,,,,1,0,0,1,0,0,0,0
+1604007613-1706,"Yes - there are a lot of borderline cases in this project, one of the reasons this is different from most other Zooniverse projects is that we get weird signals that do not fit neatly into a single category just as often as we get normal signals! This is my take on it, but I don't think there is necessarily 1 correct answer:
+The first one (USQP3ZYrW7) I would call a Koi Fish, though it doesn't have the normal fins.
+z9CWu9ki7o I would call a low frequency line - if it is sitting right at the bottom of the frequency range and doesn't change all too much over time
+If it has any kind of humpy-ness or curvy-ness to it, I'd call it a scattered light, like example 1vyjP7fCVs
+If something is sitting at low frequencies but has more abrupt frequency changes, I'd call it a low frequency burst. dBKwQK0bTo is borderline, but I think it could fit into that category.
+And if something doesn't fit any of these descriptions, I'd mark it as none of the above. Like GbGpa489qy in your collection.
+",chat,"I'm unsure if some of these are LFB, LFL, or scattered light",,,TRUE,,0,0,1,0,0,0,0,0
+1604008621-2341,"@team
+",chat,Voids,,@team,,,0,0,0,0,0,0,0,0
+1604009048-2542,"Hey everyone,
+I was wondering who I should put down as the contact person for volunteering hours.
+Does anyone know the email and name of the person I should put down?
+",chat,Volunteering Hours,,,,,0,0,0,0,1,0,0,1
+1604008222-2010,"Fantastic @EcceruElme that is wonderful! I will definitely look at this!
+I have written on the Subject itself but will repost here what type of glitch this is:
+""This glitch is called an Electrostatic Drive (ESD) Overflow. The ESD is the system that keeps the mirrors in place through moving the test mass/reaction mass and if too much energy is sent to it, it overflows in one big pulse!""
+Thanks again @EcceruElme and please read through the links, and let the team know!
+",chat,GW170817 - The first observation of gravitational-waves from a binary neutron star inspiral,/users/EcceruElme;/users/EcceruElme,@EcceruElme;@EcceruElme,,,1,0,1,0,0,1,0,0
+1604008222-2011,"#scale - ESD overflow from Livingston
+scale collection
+
+#fountain - similar to scale but they are all from Hanford. (Are they also caused by ESD overflow and they look slightly different because they are from the other detector?)
+fountain collection
+
+#deltoid - another possible morphology relative of scale (Might have different origin than ESD overflow but it is maybe possible too that they were caused by the same problem but lower owerflow?) They are from Livingston.
+deltoid collection
+
+There are some other type of glitches morphologically related to scale/ ESD Overflow.
+@team
+",chat,GW170817 - The first observation of gravitational-waves from a binary neutron star inspiral,/projects/zooniverse/gravity-spy/talk/tags/scale;https://www.zooniverse.org/collections/ecceruelme/scale;/projects/zooniverse/gravity-spy/talk/tags/fountain;https://www.zooniverse.org/collections/ecceruelme/fountain;/projects/zooniverse/gravity-spy/talk/tags/deltoid;https://www.zooniverse.org/collections/ecceruelme/deltoid,@team,,,0,0,0,1,1,0,0,0
+1604008252-2051,"fed up, I mean.
+",chat,Abandoned thread,,,,,1,0,0,0,0,0,0,0
+1604007908-1834,"(most of these ideas have nothing to do with the original topic, but I'm just tacked them on because they came flowing while I was in here and can't see creating a new discussion)
+Another ideas
+15.    It would be nice to have a system that would track the location of the mouse pointer in the frequency and time coordinates. So, say I hover over a location in the image, somewhere outside of the image there could be a box with the coordinates of my current mouse location within the grid. I would prefer it not hover near the mouse because that would cover the image. It would help with identifying better frequencies and time locations for events when discussing them.
+
+For advanced users, it could be useful to have a way for you to continuously keep moving within the Time coordinate to the next image. Like as a way to classify as a continuous time reel. I'm think if you were to use a click in the image to identify the glitches (and have a way to quickly classify each glitch in the full image) then you could scroll to the right with a button or something and just keep on going with classifying them in a continuous manor. Could give context into possible causes of glitches and lead to other connections being made. (ie, maybe a certain glitch is always preceded by a certain glitch or weak signal)
+
+",chat,None of the Above Alternative Use Ideas,,,,,0,0,0,0,0,1,0,0
+1604008948-2507,"This comment has been deleted
+",chat,one-person tally of glitches,,,TRUE,,0,0,0,0,0,0,0,0
+1604008921-2478,"1
+",chat,A possible btk solution,/projects/zooniverse/gravity-spy/talk/subjects/5737720,,,,0,0,0,0,0,0,0,0
+1604009328-2615,"Scattered Light looks unusual (zoom out to frame 4!) when rendered with coarser frequency resolution and finer time resolution than usual...
+Background:
+Gravity Spy deals with glitches which may be of short or long duration, and which may be confined to a single frequency or span broad frequency bands. But there is a tradeoff between time and frequency resolution in our spectrograms. Each glitch is therefore preprocessed at four different settings for the ""Q-value"", 5.66 or 11.3 or 22.6 or 45.3 (the geometric midpoints of the intervals 4-8-16-32-64), and the one that gives the highest signal-to-noise ratio is used to render the image. Low Q-values correspond to fine time resolution at the expense of coarse frequency resolution, emphasizing short-duration broadband features. High Q-values correspond to coarse time resolution and fine frequency resolution.
+Gravity Spy subjects from the third observation run O3 and the preceding Engineering Runs have the chosen Q-value included in their metadata (click on the (i)nfo button under the image). With some experience, one can guess the Q-value from whether the background noise texture looks more vertical or more horizontal.
+Many glitch classes are most visible at a particular Q-value, and thus most often appear at that Q-value: E.g., Blips at 5.66, Crowns (from Livingston) at 11.3, Damped Crowns / Coronets (a proposed class) at 22.6, and Scattered Light at 45.3.
+But sometimes we see them rendered at a different Q-value - often (not always) when glitches of different kinds occur side by side - and then the visual appearance can change, subtly or dramatically. The ""trees"" in the Gravity Spy logo subject 13741669 are what Blips and Koi Fish look like when rendered at Q 45.3.
+The title picture above shows a Scattered Light rendered at Q 22.6.
+",chat,Examples of common glitches at uncommon Q-values,/projects/zooniverse/gravity-spy/talk/subjects/39544735;/projects/zooniverse/gravity-spy/talk/762/1245502;/projects/zooniverse/gravity-spy/talk/subjects/36386793,,,,0,0,0,1,0,0,0,0
+1604007521-1650,"Darn, that took me longer than expected.
+
+This sounds almost exactly like a Reddit style format... Where a mod has content control over their discussion. Same thing with the hostile takeover aspect.
+
+I do know Reddit, but don't know there forum features. At GS Talk, the topic OP (Original Poster) would still only have controle over there own first post. ... Post-controle which, as far as I know, can't be transferred to someone else at Zooniverse. Ergo: the (virtual) hostile (but it could also be a friendly) takeover idea.
+
+It could work but is overly complex in my opinion.
+
+I think the complexity here is somewhat relative and subjective. With the current Zooniverse Talk features, I don't see an easier way. ... Other than coming up with a better documentation on the idea.
+If you see an alternative/easier way, I'm all ears. 
+
+My argument, which is really a side topic from your discussion, is that tags that are able to be defined specific to certain glitches, should be a new classification category.
+
+Well that's up to the GS team. Some things to keep in mind here are:
+
+Currently, as I understand it, a Zooniverse projects looses there 'Approved' status when changes are made to the project files (which is a subject that's under discussion at Zooniverse level.).
+Even whiteout point 1 the project user community is generally more flexible and will probably spot new signals before the GS team does.
+Currently the GS project setup seems not yet geared for speedy addition of new signals. This might change in the future, but they still will need some time to study potential new signals before deciding to include them (or not) in the official classification process.
+
+
+it seems like to me only maybe 10 to 20% would dig that deep and find it helpful
+
+I don't really find that relevant.
+""According to the U.S. Census Bureau, as of 2012, 8.05 percent of the population in the United States ages 25 and older has a master's degree. Another 3.07 percent has gone one step further and has a doctoral or professional degree.""
+
+to see and understand potentially hundreds of tag categories on top of 20 classification categories.
+
+I don't think ""potentially hundreds of user-named-signals"" are to be expected, ... although that could depend on the signal-hashtag-list maintainer. Needles to say some quality controle is implied here. And than there is also the fact that signals could go away again, like this signal did.
+
+It gets complicated... and maybe that's a good reason to ax the idea...
+
+I think the basic idea is relative simple, and only has one real goal. There might be some potential problems with it. But those seem at this point more virtual than real.
+
+but as I see them... tags shouldn't be to classify.
+
+Here I'm not sure to what your revering to. As there is no direct classification intend attached to the basic OP (Original Post) idea, as least not in my mind.
+
+They should be to help create new categories to then include them into a tool that does help them be official classified.
+
+This idea, in my view, could do the first part. The second part is up to the GS team.
+To restate the basic idea's: (lets use a new post for that.)
+",chat,The Zooniverse Hashtag System ...,https://www.reference.com/education/percentage-population-master-s-degrees-e81e9ab5991231e0;https://www.zooniverse.org/projects/zooniverse/gravity-spy/talk/subjects/1951944,,,😃,1,0,1,1,0,1,0,0
+1604008132-1941,"But blips are, as far as we're told so far, are not coincidentally detected between detectors. Except potentially these echos... which aren't really confirmed as being real yet. We need more inspirals!
+I know of one very short blip that is high frequency... and it's surrounded by scratchy. So, maybe scratchy events are hints of real gravitational waves....? the field guide lists scratchy as
+
+
+LIGO experts have not yet identified the source of this noise. It was one of the key limitations in searches for binary black hole mergers and the search experts referred to it as ""that annoying scratchy noise"".
+
+
+If scratchy is echos or somehow related to after gravitational wave events, then that's encouraging!
+",chat,News,,,TRUE,,1,0,1,0,1,1,0,0
+1604008218-2007,"nice to see that something is being done at all. at least every field guide entry has some example pictures now.
+maybe you could implement some new glitch classes next, like a catch-all for horizontal lines of different frequencies.
+The tutorials that explain the classification could be a bit more in-depth as well.
+I was quite frustrated when told not to classify a glitch in more than one category only after having made over 500 classifications! Why even give the possibility to do so, if we're not supposed to? (the image in question was a gold standard that had both a 1080 line and a clear line at a lower frequency, I classified as both 1080 and nota)
+",chat,Some suggestions.,,,TRUE,,1,1,1,0,0,1,0,0
+1604009195-2594,"It depends!
+Some very long discussion threads are associated with gold-standard subjects - those which serve to train us volunteers, and which provide feedback - and these do get shown to very many people. (And many entries in longer threads arise as replies to earlier entries, not directly from clicking Done & Talk in the Classifier.)
+For all other subjects - those where our submissions help to train the Machine Learning - there is no fixed number of classifications. The software keeps a score of what has been submitted and what the ML itself has come up with, and deduces a confidence estimate about how reliable the classification already is, updating it with every new submission. Subjects which don't converge on a glitch class eventually migrate to a more advanced workflow.
+The researchers, at any time, can run queries against the Gravity Spy database asking for e.g. all glitches from Hanford that happened during O3 and which are deemed to be Whistles with a confidence of at least 85%. And so on.
+Unlike many other Zooniverse projects, subjects never get completed/retired automatically after a given number of classifications or after exceeding a given confidence threshold - retirements only happen when the researchers run a customized batch job. (This happens very rarely, and thus what Zooniverse is able to display about the Gravity Spy completion percentage, total or per workflow, is always deceptively low. And it has kept decreasing whenever the detectors have been up and running and several thousand subjects per day got freshly uploaded...)
+On average, to date, each subject has received less than 2 classifications - we're standing at 1,624,836 subjects at present and approaching 2.9 million classifications. I've often seen newly uploaded subjects in the Classifier within a day or two of the glitch event happening: we're certainly not focusing on heavily-classified images at the expense of new ones in more need of input. Rather the opposite!
+",chat,How many people view each image?,,,TRUE,,1,0,0,0,0,1,0,0
+1604008553-2271,"Hi Ecce, the simple algorithm would just scan every classified subject and list all the ones that contain pixels that are not on the amplitude scale. Then a search could be done from within that list for particular colours (identified by a human) to separate reddy brown from orange from black etc
+Then the algorithm would cluster the subjects into classes.
+It is a crude, blunt instrument type of experiment.
+A sort of just do it and see what happens scenario.
+I have not forgotten about posting my self-made omegascans for the bns merger chirp.  @EcceruElme cheerio for now Christine
+",chat,Out of scale colors,/users/EcceruElme,@EcceruElme,TRUE,😀;😀,1,0,1,0,0,1,0,1
+1604008983-2524,"Wow! A perfect #mirrorchirp.
+I want to know: is it known what causes these glitches? If anyone knows, that please tell me. Are they injections? Are they weak tomtes/blips?
+",chat,Mirror chirp in O3,/projects/zooniverse/gravity-spy/talk/subjects/39516157;/projects/zooniverse/gravity-spy/talk/tags/mirrorchirp,,,,1,0,0,0,1,0,0,0
+1604009173-2578,"All examples of Light Modulation I've seen have the LF noise chronologically after the medium to high frequency spikes - to the right of them in the images.
+Thank you for pointing this out! I hadn't yet noticed this discrepancy. I've made a note of it now - I'm collecting little details about the wording and example pictures in the classifier and Field Guide which will need addressing to the researchers. (I'm not passing on every single one at a time, though. Classifier edits in Zooniverse are disruptive - the whole workflow needs to be temporarily disabled.)
+By the way, Light Modulation glitches as described and illustrated seem to have been a thing of the past. There are few if any convincing examples from O3. The Light Modulation machinery as a cause for glitches has still been an occasional issue during O3, but the visible symptoms seem to have taken other shapes.
+",chat,Light Modulation,,,TRUE,,0,0,1,0,0,1,0,0
+1604009347-2639,"Another thing I've noticed while back-classifying: there are some crowns in the lower levels too.
+I will link a collection when I have enough subjects...
+",chat,Virgo O3 in how many levels,,,,,0,0,0,0,0,0,0,0
+1604008129-1923,"In theory, with 60cps power supply, there will be 120 peak voltages (alternately + and -) per second resulting in a 120 Hz line; and if there is equipment that can sense (I don't know how) specific voltage values in the cycle this could cause a 240 Hz linear glitch. I don't know more than that.
+",chat,Power line frequency,,,,,0,0,1,0,0,0,0,0
+1604008112-1890,"I think the new spectrograms called pixelated make it easier to see the difference between glitches. The glitches look sharper with better defined edges, for example earlier many glitches looked like koi fish because of the arms and flames. These details have much lower energy than the core or the body of the glitch but it is less obvious on the original style. It is possible to collate original and new version of glitches, but the same time we should classify based on the new appearance, so for example something looked like floorkoi before, based on the new spectrograms is not a koi fish but a new type of glitch and it should not be classified as koi fish any more even if we know that it looked like that before.
+Examples : Subject 5805165 vs Subject 10564216 vs Subject 10511932
+on this three examples I think we can see the advantage of the new spectrograms:
+Subject 10564216 and Subject 10511932 do not look like koi fishes (in my opinion at least) and earlier this two types would have been difficult to differentiate but now I think they are two different types (maybe related).
+The same time there are glitches which has not changed their shape so much and they can be classified based on the old morphology.
+Maybe some examples of the official glitch classes created in the new style would be useful to add to the classification table, if it could help to identify new types? @mzevin1
+",chat,Pixelated glitches,/projects/zooniverse/gravity-spy/talk/subjects/5805165;/projects/zooniverse/gravity-spy/talk/subjects/10564216;/projects/zooniverse/gravity-spy/talk/subjects/10511932;/projects/zooniverse/gravity-spy/talk/subjects/10564216;/projects/zooniverse/gravity-spy/talk/subjects/10511932;/users/mzevin1,@mzevin1,TRUE,,0,0,1,1,1,0,0,0
+1604007515-1637,"I apologize if this already exist and I just can't find it yet.  I'd like, if it's possible and not too much of a distraction from the point of the project, for there to be a way for users to find the posts they have made once they drop off the first page of a forum.  For example, since we can't name the talk discussions about the specific glitches we post as new entries, I often don't remember the number of the image, so I can't find it again.
+",chat,Forum improvement/change idea,,,,,1,0,1,0,0,0,0,0
+1604008909-2468,"This is the afore-mentioned non-fireball
+",chat,Fireballs in O3,/projects/zooniverse/gravity-spy/talk/subjects/33659139,,,,0,0,0,0,0,0,0,0
+1604007517-1641,"The ones with feedback are there to help you learn the nuances of glitches. They are known samples that basically are teaching you.
+The ones with no feedback are the ones that you're helping to build up a classification for to teach the Machine Learning algorithm. It's hard to say any one is more important than the other, because it's a system, but the no feedback ones are especially useful.
+https://www.zooniverse.org/projects/zooniverse/gravity-spy/about/research gets into it a little and the ""FAQ"" tab also gets into the project more. It's a very enlightening read.
+",chat,Feedback,https://www.zooniverse.org/projects/zooniverse/gravity-spy/about/research,,,,0,0,0,1,0,0,0,0
+1604009181-2585,"I looked at all the information, but I can't tell how to actually start DOING anything.  Help?
+",chat,How does this project work?,,,,,0,0,1,0,1,0,0,0
+1604008289-2084,"Hi again @achilles308 , I thank you for the links though second link from the former discussion you told me leads me to Bjorn-s' collection --did I make here a little mistake?
+Noise and signal criterion is valid for any instrumental analytical chemistry technique, not only spectroscopical ones, and widespread accepted and known in analytical chemistry community. The noise is assumed to have a Normal distribution, the corresponding standard error is the baseline for computing the 3-fold threshold (for a significance level enabling to be mistaken less than 1% times). Then, 3 is the Normal ""percentile"" generally adopted, so any peak in the noisy data being 1.5 or 2 times higher than the noise spread is often taken as a noise itself. But peaks which ""lift off"" above the background with an intensity 3 times higher than the standard error of the noise can be classified as a truly signal (analytical signal is the technical term) --then one expects to be mistaken with a probability below 1%. Notice that a percentile 2 or 1.96 would make us to be mistaken about the nature of the signal-candidate about 5% of times, 1 time per 20 attempts! I really believe the 1D definition of signal to noise ratio can straightforward be generalized to a 2D phase-space like that of glitches,. By observing how great is the fluctuation in a #noglitch image you can compute (by the triple of this amount) the minimum peak to be taken as a non-noisy and truly glitch. Strictly speaking, peak height should be measured from the top values of noise for applying the 3-sigmas threshold, but I start to count from a 0 energy in the pictures (noisy background fluctuation uses to be close to 3 units, seldom is 5, please verify it). Color-scales helps so much!
+Not being a geologist, 100 Hz vibrations are very well explained by you, but I wonder if a seismic origin is feasible. For the dimensions of the beam tube, I cannot realize now how the wind could act on it (unless there is a hurricane or wild wind involved ), but external supports can give a clue. Low frequency events or waves in the floor may excite vibrational modes in the structure. Wavy-trains with one half second endurance, a regular pattern I could detect in my collection, would imply an almost constant relaxation time --I suspect a Fourier analysis (if possible) of the glitches can help to characterize them.
+I confess classical wave mechanics is not my best friend, but your explanation is very good whatever is the reason of the #midfrequencyline glitches.
+The non-filtered occurrence of midfreq lines close to 2-3% is another helpful parameter, since low frequency noise uses to be intense (it is well known the ""1/f law of noises"" affecting devices and equipment in analytical chemistry, where f is frequency). LIGO exhibits this pattern clearly below 10 Hz, from the pictures I could see in LSC webpage.
+Thank you very much, and ask as much as needed about my ""3-fold criterion"" if you want. Regards!
+",chat,Why the GW channel detects thirsty black ravens along with colliding black holes,/users/achilles308;/projects/zooniverse/gravity-spy/talk/tags/noglitch;/projects/zooniverse/gravity-spy/talk/tags/midfrequencyline,@achilles308,TRUE,😃,1,0,1,1,1,1,0,1
+1604008490-2241,"Hi Melina! I agree, it is a potential new type of glitch started to tag them as #50sb_virgo and collected as Virgo_50sb.
+",chat,New glitch class in Virgo,/projects/zooniverse/gravity-spy/talk/tags/50sb_virgo;https://www.zooniverse.org/collections/ecceruelme/virgo-50sb,,,,0,0,0,1,0,0,1,1
+1604008197-1975,"I struggle with examples such as this... it is often the case that there is no right answer... only opinions. I would probably classify this as a koifish, but it's not exactly a pristine example. I'm sure there is a better classification....  I'd be interested to hear @EcceruElme @christingle @wavewavewave  and @BLGoodwin  and their thoughts.
+",chat,Subject 9880398; Alternate Identification: Tomte,/users/EcceruElme;/users/christingle;/users/wavewavewave;/users/BLGoodwin,@EcceruElme;@christingle;@wavewavewave;@BLGoodwin,,,0,0,1,0,0,0,0,0
+1604198895-1642,"How about #hangingdrop ?
+",collections,Hashtags,/projects/zooniverse/gravity-spy/talk/tags/hangingdrop,,,,0,0,0,0,1,0,0,0
+1604198638-870,"unusual repeating blips with pairs. #possiblenewglitch @EcceruElme ?
+",collections,ram discussion,/projects/zooniverse/gravity-spy/talk/subjects/5804715;/projects/zooniverse/gravity-spy/talk/tags/possiblenewglitch;/users/EcceruElme,@EcceruElme,,,1,0,1,0,1,0,0,0
+1604198543-609,"Awesome, this is wonderful news. Thank you for all your hard work and for letting us know! We love good updates 
+",collections,Exciting changes to Collections are coming!,,,,😃,1,0,0,0,0,1,0,1
+1604198892-1615,"This is great!
+",collections,a summary - candidate classes and others,,,TRUE,,1,0,0,0,0,1,0,0
+1604198850-1454,"2. HFB500 - pizzicato
+(Candidate) training set pizzicato
+Link to collection metadata
+Sources for this candidate training set:
+
+ER14 hfb500 by @EcceruElme
+subjects mentioned in talk over the last few months by @AardvarkNick, @bamboo69, @Christingle, @Imvoib, @MonsieurFrey, @nepcwtch, @Pjs62600, @Pony_Rider, @SrirangCanTransit, and @UnbiasedBrigade
+subjects noted by myself whilst classifying them (as NOTA so far)
+subjects noted in #simsearch results apropos of subjects also belonging to this proposed new class
+subjects coming up serendipitously in #simsearch results apropos of subjects of other types
+
+Properties and known biases of the training set:
+I consciously aimed for covering the whole timeline from ER14 when these glitches were first noted, through early and late O3a when they began to show up also at the higher frequency, through early O3b when (in the presence of a persistently rung-up 1017Hz violin mode) they were very frequent at Livingston for a while, all the way into the present month. The peak in the first three weeks of November 2019 (amounting to 55% of the training set) is, if anything, under-represented: Subjects from this time make up fully 80% of my own ""pizzicato"" collection which, however, under-represents ER14 (since I joined Gravity Spy only in August 2019, by which time O3 subjects began to drown out those from the earlier eras in Gravity Spy). December 2019 and January 2020 will be under-represented in any case since these subjects have only recently been uploaded to Gravity Spy and have not yet been seen by many contributors. Even so, we have recent examples from both Hanford and Livingston.
+The 94-member candidate set is free of duplicates. It spans SNRs from 7.503 to 67.3. It reflects the variability in morphology, with the characteristic central bulge-with-a-whole at either ~512Hz or ~1024Hz or sometimes both, with or without lateral ""wings"", with or without vertical (""lighthouse"") extensions, often appearing alone but occasionally in combination with fainter noise at lower frequencies or with bright glitches of other types, e.g. Scattered Light. (Only examples where the present type is near t=0 and brighter than the other type are included.)
+Motivation:
+These glitches keep occurring... and aren't all that rare. They are easy to classify by humans, and the machine, once properly trained, should also be able to do a good job on them. (And it would be useful to have the classification option available in the advanced levels.)
+SimSearch suggests that the ML sometimes already does a fairly good job at clustering these - e.g. 200 from H1+L1 based on 38015308 finds only a small number of whistles, rung-up violins, and one subject without anything visible above 500Hz as false positives. Do the same starting from 32908659 from early O3a, however, and the returned subjects at present are widely scattered, with a large fraction of HF Bursts, Whistles, showers, etc, even among the upper 50% of the similarity scores.
+Any comments / suggestions / criticism before we do anything else with this set? @researchers
+Thanks in advance!
+",collections,Retrain,/projects/zooniverse/gravity-spy/collections/zngabitant/training-set-pizzicato;https://gravityspytools.ciera.northwestern.edu/collection-info/collection-info/?username=zngabitant&collection_display_name=training-set-pizzicato;/projects/zooniverse/gravity-spy/collections/ecceruelme/er14-hfb500;/users/EcceruElme;/users/AardvarkNick;/users/bamboo69;/users/Christingle;/users/Imvoib;/users/MonsieurFrey;/users/nepcwtch;/users/Pjs62600;/users/Pony_Rider;/users/SrirangCanTransit;/users/UnbiasedBrigade;/projects/zooniverse/gravity-spy/talk/tags/simsearch;/projects/zooniverse/gravity-spy/talk/762/935664;/projects/zooniverse/gravity-spy/talk/tags/simsearch;/projects/zooniverse/gravity-spy/collections/zngabitant/pizzicato,"@EcceruElme;@AardvarkNick,;@bamboo69,;@Christingle,;@Imvoib,;@MonsieurFrey,;@nepcwtch,;@Pjs62600,;@Pony_Rider,;@SrirangCanTransit,;@UnbiasedBrigade;@researchers",,,0,0,1,1,1,1,0,0
+1604198717-1105,"Some definitions will be proposed here, trying to enhance our probabilities of constructing a clever tool for studying the signals in the context of a well-characterized background (noise).
+It is known that language alters the way we think, idioms with many words for describing some sort of experiences allow a high sensitive power for ascertaining subtle differences. The glossary I will try to present below is designed with the purpose of letting us think in a richer way. The aim is to recognize noise patterns as easily as possible, to avoid the distraction of our attention (by apophenia or fake signals).
+Glossary
+Texture: set of common features observed in several samples of spectrograms, within the zone of noise or noisy background. Each texture is described by the shape, direction, color and frequency of the features.
+Uniform or smooth noise: Zone where the noise does not exhibit a noticeable variation of the normalized energy, when it is observed with the naked eye.
+An example of this texture is shown in frame 1 of the spectrogram Hanford-O2a. Watch the zones between 64 and 256 Hz, please. Uniform dark color is sometimes crossed by slightly discernible horizontal lines, whose normalized energy is below 1 --and perhaps are minor to 0.5. The smooth texture corresponds to the domains with almost null normalized energy. It can be discussed if low energy lines belong to the texture or not, and if criteria for defining them as a separate domain rely on shape, normalized energy or both properties. More than 90% of the surface from frame 1 in this spectrogram, ranging from 64 to 256 Hz, can be said to be smooth or uniform, regardless the classification of the aforementioned lines with 0.5-1 units of normalized energy.
+Note: high frequency limit for smooth domain might be 512 Hz, however I circumvented the discusion about the new texture seen above and very close this limit. The main objective here is to provide a clean picture of the texture, far from the boundaries and the subtle variations naturally occurring there.
+",collections,Development of a reliable classification for noisy background-textures,/projects/zooniverse/gravity-spy/talk/subjects/10967327,,,,0,0,1,0,0,0,0,0
+1604198578-706,"Hi, Christine. Would it help in checking them if I give you a list of the code numbers of my collection? @christingle
+Brian
+",collections,Source of 1 second repeats,/users/christingle,@christingle,,,0,0,0,0,1,0,0,0
+1604198874-1554,"Right, this is one of the more obvious forms (among many) that Scattered Light glitches have been taking during the third observation run O3 at Virgo.
+Now to create an actual collection, click on the ""Collect"" button under the image (to the right of the heart-shaped Favorite button). And keep adding to it!
+You can also use the Similarity Search tool to find further examples or to create collections from scratch. (Sometimes it will find things that don't look so similar after all, but you can weed them out afterwards.)
+",collections,Hills - VIRGO O3,https://gravityspytools.ciera.northwestern.edu/search/,,TRUE,,1,0,0,0,0,1,0,0
+1604199517-2566,"As for the Done and Talk button.  I keep doing that, and they keep getting buried, unanswered.
+Hence, my posts here.
+",help,how narrow can a Blip be?,,,,,0,1,1,0,0,0,0,0
+1604199472-2499,"Thanks for your reply, but I don't understand what retiring images have to do with the unlocking/locking of my level 5.
+",help,Level 5 unlocked and locked again,,,TRUE,,0,0,0,1,0,1,0,0
+1604199409-2408,"Everyone,
+This is a really great conversation, I'll be sure to relay everything that is said to the Zooniverse web developers. Certain things (like double classification) are hard to circumvent, as other Zooniverse projects rely on this feature for their projects. However, I certainly agree about the button placement!
+I'll keep this conversation posted with any updates I hear.
+",help,A thought on layout,,,,,0,0,0,0,0,1,1,1
+1604199645-2693,"So, I've started to dabble with using collections, and I've come across a few issues that are deal breakers for my continued use of them. So, I though I'd offer a few suggestions on what I would like to see added.
+
+When searching through the forum using hashtags or just a general search, there needs to be a way to change the view of every subject listed. I can't use the search tool currently and find the kind of subject I'm looking for. It currently requires a click through to each subject to then change the view that might be required to see if it matches a collection I'm trying to find subjects for. One recent search I wish I had this on recently was over 700 subjects! I can't possibly click through each. This has been requested multiple times from many different people and with other categories coming and many more subjects this is a requirement as I see it. It's not a wish I had. It's a must have.
+
+1a)  After a search, there should be a way to select multiple subjects and add them easily to a collection. Subjects already selected, should have a visual reminder of their selection and should remain selected across multiple pages of the search results (like when clicking to page 2 or 3 of the search results). There could be a select all button and a deselect all button along with a counter as to the number of currently selected subjects (which tracks across multiple search pages). Then one final button to add the selected subjects to a collection.
+
+This suggestion, might as well actually be a bug... if you're viewing a collection for which you are not a collaborator. And you use the select multiple subjects option and go to multiple pages with your multiple selections AND one of the subjects you've selected is already in your collection... you get a rather uninspiring red error message about it already being in your collection. No subjects are then added to your collection. It doesn't list the subject number that is already in your collection so you can't even figure out which one is messing everything up. The best option would be to have it add all of the subjects that are selected (because you DO want them added) and when it confirms they were added just list how many were newly added and how many were duplicates.
+
+These are my current thoughts, and I encourage anyone who uses collections to contribute ideas.
+",help,Collection Suggestions,,,,,0,0,1,0,0,1,0,0
+1604199409-2413,"I agree. Put the buttons on top. It would be a huge time save and make the experience a little more enjoyable. Please _
+",help,A thought on layout,,,TRUE,,0,0,0,0,0,0,1,0
+1604199787-2784,"Noise band was used by @BuzzGpc from the team to that type which became by now scratchy class.  As it's a very frequent type, this hashtag became very popular as well. Here is an old post they were mentioned: https://www.zooniverse.org/projects/zooniverse/gravity-spy/talk/331/49079
+and an other one to overview: https://www.zooniverse.org/projects/zooniverse/gravity-spy/talk/331/54573?comment=108453&page=1
+",help,What is #noiseband ?,/users/BuzzGpc;https://www.zooniverse.org/projects/zooniverse/gravity-spy/talk/331/49079;https://www.zooniverse.org/projects/zooniverse/gravity-spy/talk/331/54573?comment=108453&page=1,@BuzzGpc,,,0,0,0,1,0,0,0,0
+1604199224-2213,"Could you share a screenshot of when you are prompted? Thanks. I'll need to investigate this a bit more to figure out what is going on.
+",help,Problem with leveling up,,,TRUE,,0,0,0,0,1,1,0,0
+1604198566-660,"Thank you
+",help,Field guide+classification,,,TRUE,,1,0,0,0,0,1,0,0
+1604198711-1097,"@parchbold - See/explore the ""Why don't we use audio ?"" topic.
+",help,Expert Clasifications,/users/parchbold;https://www.zooniverse.org/projects/zooniverse/gravity-spy/talk/331/60474,@parchbold,TRUE,,0,0,0,1,0,0,0,0
+1604200754-3371,"I classified this as a koi fish, but then, piqued by curiosity, I added its characteristics into the feature search up top: High Freq, Evolving, and Short. For some reason, the search doesn't believe blips or koi fish can reach high frequencies. I removed the 'High Freq', and blips and koi fish both appeared. Please fix this.
+",help,High frequency koi fish - Subject 39992892,/projects/zooniverse/gravity-spy/talk/subjects/39992892,,,,0,0,1,0,0,1,0,0
+1604198617-824,"@JBAlberts I apologize for this delay. There has been a problem with the algorithm that I have been trying to fix since this post occurred that some people stopped seeing workflows they previously unlocked. I appreciate your patience with this. Normally you would have already moved on the next workflow. I will inform you as soon as this has been resolved
+",help,Promotion Algorithm Back Online. Will keep people posted!,/users/JBAlberts,@JBAlberts,,,1,0,1,0,0,1,0,0
+1604198921-1719,"Yes - since as of now all we have to work with in this projects are the Omega Scan images, we should stick to morphological classifications. @Jrsmith02 do you have any comments about the low freq burst/scattered light discrepancy? I know there are different subclasses of scattered lights that look differently in the spectrograms.
+",help,Scattered light or low freq burst?,/users/Jrsmith02,@Jrsmith02,,,0,0,0,0,1,0,1,0
+1604198973-1837,"I hope that sbc538 will be able to get me back onto material at Level 4 that I have not already seen, otherwise there will be nothing left for me to do in this project
+",help,Thrown off the project?,,,,,0,0,1,0,0,1,0,0
+1604198842-1422,"Just got another repeat image Subject 3816221, which I had already classified and commented on yesterday. I maybe getting more repeated images but only the unusual ones are noticeable.
+",help,Same images keep repeating,,,,,0,0,1,0,0,0,0,0
+1604199787-2782,"I'm looking through the popular tags and I see one of them is #noiseband , but I can't work out quite what consistent characteristics it is supposed to have. Can anyone explain?
+",help,What is #noiseband ?,/projects/zooniverse/gravity-spy/talk/tags/noiseband,,,,0,0,1,0,1,0,0,0
+1604199890-2866,"Perhaps you might need more classification to do on level 5 to level up to 7. Classification made on level 5 and 6 is very useful for the project, thank you for contributing!
+",help,Levelling Up Question,,,,,0,0,0,0,0,1,0,0
+1604199945-2913,"Also
+",help,Chirps spotted on Virgo,/projects/zooniverse/gravity-spy/talk/subjects/25771817,,,,0,0,0,0,0,0,0,0
+1604200055-3004,"10070989 
+",help,Sub-spectrogram wave,/projects/zooniverse/gravity-spy/talk/subjects/10070989,,,😎,1,1,0,0,0,0,0,0
+1604200522-3305,"There's like approximately one detection per month (give or take (4 months of advanced LIGO operation, 2 positive detections, 1 candidate not promoted to the level of detection... but very chirpish in the detector most sensitive))
+Think of all the stuff you'd hear that wouldn't be a nice easy to hear chirp? I love listening to the chirps.... but I couldn't stand the constant barrage of trash I think you'd inevitably get.
+",help,Why don't we use audio ?,,,,,1,0,0,0,1,0,0,0
+1604198566-658,"Hi @tiovitolan if it looks like one of the ones in the field guide, classify it as 'none of the above' in the current workflow that you're in. This will move that image to workflows that have more class options, and it will be classified in those. You will see these workflows soon!
+The images that are in each workflow are due to the confidence that computer classification algorithms had for that particular image. Finding these images is useful to gauge the images that computers get tripped up on.
+",help,Field guide+classification,/users/tiovitolan,@tiovitolan,TRUE,,1,0,0,0,0,0,0,1
+1604199561-2597,"Not for the first time I have had the same experience as @EcceruElme; and the facilities are still down First time, I thought it was deliberate.
+",help,I'm not getting the details options for none-of-the-above,/users/EcceruElme,@EcceruElme;,,,0,0,1,0,0,0,0,0
+1604200775-3386,"The central frequency (as reported by the Gravity Spy tools) together with the bandwidth describes the range of frequencies in which the glitch rises above the noise level. E.g. readings of, respectively, 170Hz and 270Hz mean that the glitch had spanned frequencies from 35Hz to 305Hz.
+The raw data are sampled 16384 times per second in LIGO (20000 times per second in Virgo), and thus can represent frequencies up to the Nyquist limit of 8192Hz for LIGO (10kHz for Virgo). But our spectrograms are truncated to the range 10-2048Hz where most glitches of interest occur. A central frequency larger than 2048Hz means that there were things going on above the top edge of the picture where we can't see them.
+",help,Central frequency,https://gravityspytools.ciera.northwestern.edu/;https://en.wikipedia.org/wiki/Nyquist_frequency,,TRUE,,0,0,0,0,0,0,0,0
+1604199618-2681,"The increasing section on the right side of the second 'event' ... reminds me of what the signal of a gravitational wave which showed on the glitch itself for I believe it was GW170817 from Livingston. The third 'event' or blip then could be the chirp? #chirpish
+",help,blips,/projects/zooniverse/gravity-spy/talk/tags/chirpish,,,,0,0,0,0,1,0,0,0
+1604197755-21,"Hey great question!
+I would say these examples show the usefulness of the fact that with the interface as is you can actually select multiple options for a given image. Normally, this is NOT a good idea (which is why we say not to in the tutorial) although clearly in this case it makes sense! So feel free to go that route next time you see one of these images and we will improve the help/tutorial/examples to clarify what to do with such images in full release!
+Thanks for your feedback!
+Scotty
+",help,combined patterns,,,TRUE,,1,0,1,0,0,1,0,1
+1604199787-2788,"@futurewaves an old tag discussion. I was looking up #freddy @EcceruElme which is not currently in the library?
+",help,What is #noiseband ?,/users/futurewaves;/projects/zooniverse/gravity-spy/talk/tags/freddy;/users/EcceruElme,@futurewaves;@EcceruElme,,,0,0,0,0,1,0,0,0
+1604200351-3179,"I am not an expert on Virgo glitches, but this might fit the ""25Hz short burst"" (often abbreviated 25sb) glitch class proposal - taking into account that the present subject image was created with finer time resolution and coarser frequency resolution than the head picture of the proposal thread and thus looks narrower and more vertical. (There are similar-looking examples in the reference collection cited there.)
+Welcome to Gravity Spy Talk!
+",help,Glitch classification,/projects/zooniverse/gravity-spy/talk/3196/918633;/projects/zooniverse/gravity-spy/collections/ecceruelme/virgo-25sb,,TRUE,,0,0,1,0,0,0,0,1
+1604198804-1355,"@wonwontonton have you found that you have unlocked the next level now? As I mentioned to @nk9511 we have heard reports from other users about some issues with the algorithm that does level promotion and we are working constantly to improve it. Please let me know know and thanks for posting in talk!
+",help,Classify shows only 3 possibilities,/users/wonwontonton;/users/nk9511,@wonwontonton;@nk9511,TRUE,,0,0,0,0,1,1,0,0
+1604200299-3149,"Well that explains why I couldn't post, thanks. I guess I'll make use of the Collections section for that stuff.
+",help,I'm getting a bug when trying to make a comment.,,,,,0,0,1,0,0,1,0,0
+1604200583-3328,"Well observed.
+This and many similar subjects fits the proposed Virgo Viola glitch class. These are the Virgo analogue of LIGO violin mode harmonics. Virgo's test mass suspensions are taller than LIGO's and their longer fibers resonate at somewhat lower frequencies, near 256-275Hz, 407-410Hz, 440-450Hz, ~512Hz, 750-770Hz and some others, whence the ""viola"" nickname.
+None Of The Above is appropriate for now when there isn't a dominant 410Hz line or 170Hz line / Pirate Ship.  The Gravity Spy researchers are waiting for feedback from the Virgo detector engineers before making the existing proposals official.
+",help,New glitch at 800Hz,/projects/zooniverse/gravity-spy/talk/3196/918706;/projects/zooniverse/gravity-spy/talk/3196,,TRUE,,0,0,0,1,0,1,0,0
+1604199472-2497,"Today Gravity Spy unlocked level 5 for me and asked me to participate more in TALK since ""I was experienced"".
+The next time I signed in level 5 was locked again.
+What happened?
+",help,Level 5 unlocked and locked again,,,,,0,0,1,0,1,0,0,0
+1604199604-2666,"Hi there, I'm sorry for my own late reply, I just got back on a few days ago and I'm on level 4, so it's all good, thanks so much for the help!
+",help,Can't get past level 1,,,TRUE,,1,0,1,0,0,1,0,1
+1604198734-1171,"NOTE: We have made a slight update to our process for creating proposals - instead of 10 examples of the proposed glitch we are now asking for at least 75 examples. The reason for this change is that over time we have noted that the more instances we have of a strange new glitch occurring, the more likely it is that we will see it again and more likely that we will be able to narrow down a cause for it. Please see first post in thread for update.
+",ligo,Process for making new glitch classes official,,,,,0,0,0,0,0,0,0,0
+1604198312-387,"100/17 but the series contained lot of O1 subjects and many 1080 lines. The number of NOTA would be higher with more O2 subjects. I agree 100 classification is not enough to give a good estimation.
+",ligo,Spirograph,,,,,0,0,0,0,0,0,1,0
+1604198665-938,"For the record, glitches resembling the O2a shower towers have intermittently reoccurred at Hanford throughout O3a, with a pronounced peak in August 2019 - but I haven't seen any from O3b, nor anything like them from Livingston.
+Bulk collection (all eras): shower
+Metadata view of same
+",ligo,Shower towers,/projects/zooniverse/gravity-spy/collections/zngabitant/shower;https://gravityspytools.ciera.northwestern.edu/collection-info/collection-info/?username=zngabitant&collection_display_name=shower,,TRUE,,0,0,0,0,0,0,0,0
+1604198279-317,"If you look closely on frame 4 of the above example, immediately below the 2K signal there is a short signal of lower frequency than the 1080 line, and this is clearer at -1 sec and earlier. I have often seen this where 1080 line occurs at the same time as 2K glitches
+",ligo,MicroHF,,,,,0,0,0,0,0,0,0,0
+1604198618-835,"P.S. and I apologize for not having done all my homework here - I should have noticed your old proposal much earlier. Thanks for double-checking what I'm doing!
+",ligo,Violin and Bass Drum (Coil Driver),/projects/zooniverse/gravity-spy/talk/762/637085,,TRUE,,1,0,1,1,0,1,0,0
+1604698998-2817,"pixlfb frame 4 has triplet of joined blips with #antennae #tuningforks and a partner set of three at -1.8
+",notes,Subject 10982070,/projects/zooniverse/gravity-spy/talk/subjects/10982070;/projects/zooniverse/gravity-spy/talk/tags/antennae;/projects/zooniverse/gravity-spy/talk/tags/tuningforks,,,,0,0,0,0,0,0,0,0
+1604650371-13444,"Viola
+",notes,Subject 25768128,/projects/zooniverse/gravity-spy/talk/subjects/25768128,,,,1,0,0,0,0,0,0,0
+1604720099-12011,"repeating low freq bursts
+",notes,Subject 3952686,/projects/zooniverse/gravity-spy/talk/subjects/3952686,,,,0,0,0,0,0,0,0,0
+1604565477-3006,"A blip combined to a mid-frequency burst not yet named
+",notes,Subject 28681595,/projects/zooniverse/gravity-spy/talk/subjects/28681595,,,,0,0,0,0,0,0,0,0
+1604873318-5293,"Trigger event is a short (20ms) pulse of violin mode but the spectrogram is dominated by a 1080 line. What is the correct classification for this subject?
+Also, the 1080 line seems to fall at 1.0s to ~500Hz and then recover, but this may just be background noise.
+",notes,Subject 5869687,/projects/zooniverse/gravity-spy/talk/subjects/5869687,,,,0,0,0,0,1,0,0,0
+1604748739-14079,"early #zerosignal 3773606.0
+SUBJECT METADATA
+date	20160907
+Filename1	L1_9GALGArG9J_spectrogram_0.5.png
+Filename2	L1_9GALGArG9J_spectrogram_1.0.png
+Filename3	L1_9GALGArG9J_spectrogram_2.0.png
+Filename4	L1_9GALGArG9J_spectrogram_4.0.png
+subject_id	oTR30GDBBA
+error the subject image is different in the sim search results
+same zoo ID and gs id but image different? livingston O1 vs Livingston
+",notes,Subject 20884311,/projects/zooniverse/gravity-spy/talk/subjects/3773606;/projects/zooniverse/gravity-spy/talk/tags/zerosignal,,,,0,0,0,0,1,0,0,0
+1604720347-3293,"possibly #hangingdrop
+",notes,Subject 10526771,/projects/zooniverse/gravity-spy/talk/tags/hangingdrop,,,,0,0,0,0,0,0,0,0
+1604741639-11438,"Chirpy base?
+",notes,Subject 8626962,/projects/zooniverse/gravity-spy/talk/subjects/8626962,,,,0,0,0,0,1,0,0,0
+1604762531-12465,"#lowfrequency
+#buttons
+#lowfrequencybud
+",notes,Subject 10975902,/projects/zooniverse/gravity-spy/talk/subjects/10975902;/projects/zooniverse/gravity-spy/talk/tags/lowfrequency;/projects/zooniverse/gravity-spy/talk/tags/buttons;/projects/zooniverse/gravity-spy/talk/tags/lowfrequencybud,,,,0,0,0,0,0,0,0,0
+1604722299-4021,"#wandering-line
+",notes,Subject 10514447,/projects/zooniverse/gravity-spy/talk/tags/wandering-line,,,,0,0,0,0,0,0,0,0
+1604722610-12427,"#chirpish
+",notes,Subject 3776864,/projects/zooniverse/gravity-spy/talk/subjects/3776864;/projects/zooniverse/gravity-spy/talk/tags/chirpish,,,,0,0,0,0,0,0,0,0
+1604519573-2683,"#unique
+",notes,Subject 6074698,/projects/zooniverse/gravity-spy/talk/subjects/6074698;/projects/zooniverse/gravity-spy/talk/tags/unique,,,,0,0,0,0,0,0,0,0
+1604813674-6946,"#lfbnew horizontal lfb, frame 4 glitch?
+",notes,Subject 10152822,/projects/zooniverse/gravity-spy/talk/subjects/10152822;/projects/zooniverse/gravity-spy/talk/tags/lfbnew,,,,0,0,0,0,1,0,0,0
+1604504469-2564,"#lighthouse
+",notes,Subject 2209920,/projects/zooniverse/gravity-spy/talk/tags/lighthouse,,,,0,0,0,0,0,0,0,0
+1604715741-5191,"#violin mode harmonic of a single string
+",notes,Subject 5736207,/projects/zooniverse/gravity-spy/talk/subjects/5736207;/projects/zooniverse/gravity-spy/talk/tags/violin,,,,0,0,0,0,0,0,0,0
+1604692682-1754,"#dragon
+",notes,Subject 5843763,/projects/zooniverse/gravity-spy/talk/subjects/5843763;/projects/zooniverse/gravity-spy/talk/tags/dragon,,,,0,0,0,0,0,0,0,0
+1604572871-4523,"particular low frequency line with a final single signal in more high frequency in short time
+",notes,Subject 38036651,/projects/zooniverse/gravity-spy/talk/subjects/38036651,,,,0,0,0,0,0,0,0,0
+1604501269-1888,"Koilike blip. #blik
+",notes,Subject 5958756,/projects/zooniverse/gravity-spy/talk/subjects/5958756;/projects/zooniverse/gravity-spy/talk/tags/blik,,,,0,0,0,0,0,0,0,0
+1604773025-20654,"#20hzline
+there is a - 6 fifths sec spindle
+#6fifths
+",notes,Subject 28677556,/projects/zooniverse/gravity-spy/talk/tags/20hzline;/projects/zooniverse/gravity-spy/talk/tags/6fifths,,,,0,0,0,0,0,0,0,0
+1604549559-652,"#damped_crowns
+",notes,Subject 28677564,/projects/zooniverse/gravity-spy/talk/subjects/28677564;/projects/zooniverse/gravity-spy/talk/tags/damped_crowns,,,,0,0,0,0,0,0,0,0
+1604743628-12332,"Cord
+",notes,Subject 9812080,/projects/zooniverse/gravity-spy/talk/subjects/9812080,,,,0,0,0,0,0,0,0,0
+1604686028-1163,"#lfbhelix
+",notes,Subject 9668927,/projects/zooniverse/gravity-spy/talk/subjects/9668927;/projects/zooniverse/gravity-spy/talk/tags/lfbhelix,,,,0,0,0,0,0,0,0,0
+1604691561-2004,"Smurf village  #combination
+",notes,Subject 6067359,/projects/zooniverse/gravity-spy/talk/subjects/6067359;/projects/zooniverse/gravity-spy/talk/tags/combination,,,😃,1,0,0,0,0,0,0,0
+1604728720-6740,"This looks related to falcon, but the 'owl eyes' and wings are not typical, and there is a 1 sec signal in a void line at 500 Hz. @EcceruElme
+",notes,Subject 11093682,/projects/zooniverse/gravity-spy/talk/subjects/11093682;/users/EcceruElme,@EcceruElme,,,0,0,0,0,0,0,0,0
+1604579047-5954,"Nice catch, too!
+This is another class originally discovered by Gravity Spy contributors and added to levels 5 and 7 a year ago under the name Crown. (Others had been reminded of sparrows on a wire, of paw prints, and more.) They are not yet in the Field Guide (an update to the Field Guide is in work), but you'll find more information and examples in the original glitch class proposal thread. At levels 1-4 they can be classified as None Of The Above, but you can already make a collection of them and study their variability.
+",notes,Subject 39397364,/projects/zooniverse/gravity-spy/talk/762/926241,,TRUE,,0,0,0,1,1,1,1,0
+1604688998-1630,"#doublekoi and light modulation
+",notes,Subject 3825260,/projects/zooniverse/gravity-spy/talk/tags/doublekoi,,,,0,0,0,0,0,0,0,0
+1604719517-5739,"#motherandchild #blip
+",notes,Subject 10977070,/projects/zooniverse/gravity-spy/talk/tags/motherandchild;/projects/zooniverse/gravity-spy/talk/tags/blip,,,,0,0,0,0,0,0,0,0
+1604529446-3158,"#barbed #tomte
+",notes,Subject 6073857,/projects/zooniverse/gravity-spy/talk/subjects/6073857;/projects/zooniverse/gravity-spy/talk/tags/barbed;/projects/zooniverse/gravity-spy/talk/tags/tomte,,,,0,0,0,0,0,0,0,0
+1604760748-17510,"#vertical glitch
+",notes,Subject 25660692,/projects/zooniverse/gravity-spy/talk/tags/vertical,,,,0,0,0,0,0,0,0,0
+1604804499-5942,"microHF micro high frequency glitch.
+",notes,Subject 3819045,,,,,0,0,0,0,0,0,0,0
+1604500559-1783,"no glitch
+",notes,Subject 3496717,,,,,0,0,0,0,0,0,0,0
+1604689762-1733,"oops tagged no glitch? almost no glitch
+",notes,Subject 3820106,,,,,1,0,0,0,1,0,0,0
+1604763338-13336,"#scatteredlight main ~53Hz
+",notes,Subject 2193889,/projects/zooniverse/gravity-spy/talk/tags/scatteredlight,,,,0,0,0,0,1,0,0,0
+1604495739-1249,"this violin variant appears to be a vertical glitch? in frame 4 you can see the ENERGY and frequency of the lower frequency waves are in sync with the high frequency violin signals? what is the best sync software? may be useful?
+",notes,Subject 5870288,/projects/zooniverse/gravity-spy/talk/subjects/5870288,,,,0,0,0,0,1,0,0,0
+1604682427-10341,"#scratchy #noiseband
+",notes,Subject 3822329,/projects/zooniverse/gravity-spy/talk/tags/scratchy;/projects/zooniverse/gravity-spy/talk/tags/noiseband,,,,0,0,0,0,0,0,0,0
+1604558279-1673,"Yes, this can be classified as a Blip (with some additional noise present).
+The Similarity Search Tool, part of the Gravity Spy Tools linked in white-on-blue from the top of most Gravity Spy pages, is helpful in such cases. You can ask it for 10 images similar to zooniverse ID 40008831, leaving the uniqueid field blank, from I(nter)f(er)o(meters) H1 and L1, all eras, and it'll return mostly unambiguous Blips.
+",notes,Subject 40008831,https://gravityspytools.ciera.northwestern.edu/search/;https://gravityspytools.ciera.northwestern.edu/,,TRUE,,0,0,0,0,0,0,1,0
+1604724199-6527,"Very faint noise below 50Hz
+",notes,Subject 3829041,,,,,0,0,0,0,0,0,0,0
+1604547604-351,"#steamwhistle
+",notes,Subject 39551410,/projects/zooniverse/gravity-spy/talk/tags/steamwhistle,,,,0,0,0,0,0,0,0,0
+1604574979-5021,"Well observed!
+This is (a slightly atypical example of) a class originally discovered by Gravity Spy contributors and added to levels 5 and 7 last year under the name Crown. (Others had been reminded of sparrows on a wire, of paw prints, and more.) They are not yet in the Field Guide (an update to the Field Guide is in work), but you'll find more information and examples in the original glitch class proposal thread. At levels 1-4 they can be classified as None Of The Above, but you can already make a collection of them and study their variability. They're almost exclusively a Livingston thing.
+",notes,Subject 40371614,/projects/zooniverse/gravity-spy/talk/762/926241,,TRUE,,1,0,0,1,0,1,1,0
+1604575858-5192,"repeating low frequency blips, equal period
+",notes,Subject 32164966,/projects/zooniverse/gravity-spy/talk/subjects/32164966,,,,0,0,0,0,0,0,0,0
+1604723689-12512,"Repeat frequency about 130 RPM
+",notes,Subject 3831577,,,,,0,0,0,0,0,0,0,0
+1604751159-14936,"170 line with extras at 50 Hz
+",notes,Subject 25732159,/projects/zooniverse/gravity-spy/talk/subjects/25732159,,,,0,0,0,0,0,0,0,0
+1604503851-2409,"#combination
+",notes,Subject 6106616,/projects/zooniverse/gravity-spy/talk/subjects/6106616;/projects/zooniverse/gravity-spy/talk/tags/combination,,,,0,0,0,0,0,0,0,0
+1604881543-6562,"no glitch tag, may be basket?
+",notes,Subject 8674982,/projects/zooniverse/gravity-spy/talk/subjects/8674982,,,,0,0,0,0,1,0,0,0
+1604888302-7531,"extremely loud
+",notes,Subject 5806787,,,,,0,0,0,0,0,0,0,0
+1604784053-22856,"Maybe a low frequency koi fish? Hard to really tell what this one is
+",notes,Subject 25739374,/projects/zooniverse/gravity-spy/talk/subjects/25739374,,,,0,0,0,0,1,0,0,0
+1604893722-8358,"Yeah, looks like 80-90 Hz. I've seen another similar to this.
+",notes,Subject 3496745,,,,,0,0,0,0,0,0,1,0
+1604537376-3823,"#wanderingline - I hardly ever see these!
+",notes,Subject 3777865,/projects/zooniverse/gravity-spy/talk/tags/wanderingline,,,,1,0,0,0,0,0,0,0
+1604629140-10298,"25fb
+",notes,Subject 25744240,/projects/zooniverse/gravity-spy/talk/subjects/25744240,,,,0,0,0,0,0,0,0,0
+1604734641-8950,"no glitch
+",notes,Subject 5860538,/projects/zooniverse/gravity-spy/talk/subjects/5860538,,,,0,0,0,0,0,0,0,0
+1604757583-16760,"This #virgo #blip #dot looks like a #chirp
+",notes,Subject 25754209,/projects/zooniverse/gravity-spy/talk/subjects/25754209;/projects/zooniverse/gravity-spy/talk/tags/virgo;/projects/zooniverse/gravity-spy/talk/tags/blip;/projects/zooniverse/gravity-spy/talk/tags/dot;/projects/zooniverse/gravity-spy/talk/tags/chirp,,,,0,0,0,0,0,0,0,0
+1604677393-9439,"#lowfrequencysplatter
+",notes,Subject 3820937,/projects/zooniverse/gravity-spy/talk/subjects/3820937;/projects/zooniverse/gravity-spy/talk/tags/lowfrequencysplatter,,,,0,0,0,0,0,0,0,0
+1604684957-991,"#scattered light
+",notes,Subject 6677675,/projects/zooniverse/gravity-spy/talk/subjects/6677675;/projects/zooniverse/gravity-spy/talk/tags/scattered,,,,0,0,0,0,0,0,0,0
+1604681025-559,"scattered light arches over a #stubborn_low_frequency
+",notes,Subject 10967855,/projects/zooniverse/gravity-spy/talk/subjects/10967855;/projects/zooniverse/gravity-spy/talk/tags/stubborn_low_frequency,,,,0,0,0,0,0,0,0,0
+1604733333-8383,"modulated scratchy (2/sec) = crown
+",notes,Subject 3777264,,,,,0,0,0,0,0,0,0,0
+1604535542-3665,"#massiveMFparallels
+",notes,Subject 5804143,/projects/zooniverse/gravity-spy/talk/tags/massiveMFparallels,,,,0,0,0,0,0,0,0,0
+1604719268-2986,"@EcceruElme 
+",notes,Subject 6073878,/users/EcceruElme,@EcceruElme,,😀,1,0,0,0,0,0,0,0
+1604554399-1355,"256 Hz to 270 Hz glitch
+",notes,Subject 25661899,,,,,0,0,0,0,0,0,0,0
+1604634479-6543,"koi-like blip. #blik
+",notes,Subject 3824193,/projects/zooniverse/gravity-spy/talk/subjects/3824193;/projects/zooniverse/gravity-spy/talk/tags/blik,,,,0,0,0,0,0,0,0,0
+1604682669-701,"I classified them as pixelated blips, with 3 of them at just 1 sec intervals. The target is like a boot with something sitting on the instep. There are other low energy blips that don't fit the time sequence. Complex
+",notes,Subject 10526545,,,,,0,0,0,0,0,0,0,0
+1604692049-2115,"Koi fish accompanied by blip
+",notes,Subject 3496556,,,,,0,0,0,0,0,0,0,0
+1604729096-6935,"#chirp
+",notes,Subject 3496776,/projects/zooniverse/gravity-spy/talk/tags/chirp,,,,0,0,0,0,0,0,0,0
+1604730061-7587,"#None-of-the-above & why not lets #fly...
+",notes,Subject 3496936,/projects/zooniverse/gravity-spy/talk/tags/None-of-the-above;/projects/zooniverse/gravity-spy/talk/tags/fly,,,,0,0,0,0,1,0,0,0
+1604716275-11453,"Weak glitches are less important. This is a borderline case though.
+",notes,Subject 3498135,,,TRUE,,0,0,0,0,0,0,0,0
+1604844750-943,"typical lfb but at higher frequency
+",notes,Subject 6092159,/projects/zooniverse/gravity-spy/talk/subjects/6092159,,,,0,0,0,0,0,0,0,0
+1604733413-8407,"bitten blip variant, one of those glitches that may provide evidence as to the target glitch somehow being entangled, perturbed or perturbing the background cosmic radiation. Assuming that no glitch is cosmic microwave background radiation aka cosmic microwave background aka relic radiation Ref. wikipedia 
+@futurewaves @gonzalezanido @BLGoodwin @EcceruElme @liongw
+",notes,Subject 10538142,/projects/zooniverse/gravity-spy/talk/subjects/10538142;/users/futurewaves;/users/gonzalezanido;/users/BLGoodwin;/users/EcceruElme;/users/liongw,@futurewaves;@gonzalezanido;@BLGoodwin;@EcceruElme;@liongw,,😀,1,0,0,0,0,0,0,0
+1604530944-3259,"Low frequency line, found on level 3. #wronglevel
+",notes,Subject 6092360,/projects/zooniverse/gravity-spy/talk/subjects/6092360;/projects/zooniverse/gravity-spy/talk/tags/wronglevel,,,,0,0,0,0,0,0,0,0
+1604753897-15812,"intermediate chirp and blip perhaps?
+",notes,Subject 3771686,,,,,0,0,0,0,1,0,0,0
+1604632319-6333,"Bursts and lace at different frequencies
+",notes,Subject 3820550,/projects/zooniverse/gravity-spy/talk/subjects/3820550,,,,0,0,0,0,0,0,0,0
+1604651510-13655,"#possiblenewglitch #dotgitch
+",notes,Subject 35774993,/projects/zooniverse/gravity-spy/talk/subjects/35774993;/projects/zooniverse/gravity-spy/talk/tags/possiblenewglitch;/projects/zooniverse/gravity-spy/talk/tags/dotgitch,,,,0,0,0,0,0,0,0,0
+1604726547-6888,"Are the subjects numbered sequentially in time? Out of curiosity I searched for 10524231 and it seems to match up.
+",notes,Subject 10524232,,,,,0,0,0,0,1,0,0,0
+1604719995-5802,"Very clear #fly to me, with a chirpish element
+",notes,Subject 3815032,/projects/zooniverse/gravity-spy/talk/tags/fly,,,,0,0,0,0,0,0,0,0
+1604779789-22002,"not at all  koi fish in the center. Repeating blips at -0.37 sec and -0.08 sec.
+",notes,Subject 10965075,,,,😉,1,1,0,0,0,0,0,0
+1604530603-556,"#nota similar to #crown glitch
+",notes,Subject 25670241,/projects/zooniverse/gravity-spy/talk/subjects/25670241;/projects/zooniverse/gravity-spy/talk/tags/nota;/projects/zooniverse/gravity-spy/talk/tags/crown,,,,0,0,0,0,0,0,0,0
+1604766784-19117,"Repeats about 150 RPM
+",notes,Subject 3776729,,,,,0,0,0,0,0,0,0,0
+1604759403-11848,"#stubborn_low_frequency
+",notes,Subject 10098458,/projects/zooniverse/gravity-spy/talk/subjects/10098458;/projects/zooniverse/gravity-spy/talk/tags/stubborn_low_frequency,,,,0,0,0,0,0,0,0,0
+1604878438-6047,"#lobster #koi
+",notes,Subject 5804744,/projects/zooniverse/gravity-spy/talk/subjects/5804744;/projects/zooniverse/gravity-spy/talk/tags/lobster;/projects/zooniverse/gravity-spy/talk/tags/koi,,,,0,0,0,0,0,0,0,0
+1604680120-117,"chirp chirpish blip
+",notes,Subject 5957386,/projects/zooniverse/gravity-spy/talk/subjects/5957386,,,,0,0,0,0,0,0,0,0
+1604720628-3401,"#banana bent tomte
+",notes,Subject 3832318,/projects/zooniverse/gravity-spy/talk/tags/banana,,,,0,0,0,0,0,0,0,0
+1604689725-10677,"#koi
+",notes,Subject 3537135,/projects/zooniverse/gravity-spy/talk/tags/koi,,,,0,0,0,0,0,0,0,0
+1604729870-7269,"Thanks. At present I am saving all those with a 1 sec precursor in the same collection
+",notes,Subject 8631419,,,,,0,0,0,0,0,1,0,0
+1604707456-953,"I need help?
+",notes,Subject 10666861,/projects/zooniverse/gravity-spy/talk/subjects/10666861,,,,0,0,1,0,1,0,0,0
+1604643909-12101,"Like #hfb500er14 but recent (Nov 4 2019 around 16:30 UTC, Livingston O3) - #pizzicato at 1038Hz.
+",notes,Subject 37880050,/projects/zooniverse/gravity-spy/talk/subjects/37880050;/projects/zooniverse/gravity-spy/talk/tags/hfb500er14;/projects/zooniverse/gravity-spy/talk/tags/pizzicato,,,,0,0,0,0,0,0,0,0
+1604681362-285,"ascending power line?
+",notes,Subject 10969711,/projects/zooniverse/gravity-spy/talk/subjects/10969711,,,,0,0,0,0,1,0,0,0
+1604738995-10343,"mmm possibly a tomte blip combination
+",notes,Subject 10765229,,,,,0,0,0,0,0,0,0,0
+1604879785-6278,"Weak features at low freqs. No glitch.
+",notes,Subject 5735102,/projects/zooniverse/gravity-spy/talk/subjects/5735102,,,,0,0,0,0,0,0,0,0
+1604501776-1966,"I've seen a lot of these very high frequency blips that are occurring often, but don't know if they are 1400 line or something else
+",notes,Subject 6381093,/projects/zooniverse/gravity-spy/talk/subjects/6381093,,,,0,0,1,0,0,0,0,0
+1604762469-17855,"No glitch
+",notes,Subject 25768382,/projects/zooniverse/gravity-spy/talk/subjects/25768382,,,,0,0,0,0,0,0,0,0
+1604548957-585,"This is a Crown - a glitch class that was originally discovered by Gravity Spy contributors and added to levels 5 and 7 about a year ago. (Others had been reminded of sparrows on a wire, of paw prints, and more.) See the Field Guide and the original glitch class proposal thread for more information and examples. At levels 1-4 they can be classified as None Of The Above, but you can already make a collection of them and study their variability.
+",notes,Subject 39403310,/projects/zooniverse/gravity-spy/talk/762/926241,,TRUE,,0,0,0,1,0,0,0,0
+1604690629-10788,"It begs the question as to where the dividing line between #koifish and #tomte lies. The description #tomtekoi  fits better!
+",notes,Subject 3777700,/projects/zooniverse/gravity-spy/talk/tags/koifish;/projects/zooniverse/gravity-spy/talk/tags/tomte;/projects/zooniverse/gravity-spy/talk/tags/tomtekoi,,,,1,0,0,0,1,0,0,0
+1604639250-11232,"#50sb_virgo
+",notes,Subject 25740096,/projects/zooniverse/gravity-spy/talk/tags/50sb_virgo,,,,0,0,0,0,0,0,0,0
+1604773402-14748,"just seen one of these, #possiblenewchirp ? tagged as nota
+",notes,Subject 3830816,/projects/zooniverse/gravity-spy/talk/subjects/3830816;/projects/zooniverse/gravity-spy/talk/tags/possiblenewchirp,,,,0,0,0,0,1,0,0,0
+1604574637-4915,"#koi-ish
+",notes,Subject 39338459,/projects/zooniverse/gravity-spy/talk/subjects/39338459;/projects/zooniverse/gravity-spy/talk/tags/koi-ish,,,,0,0,0,0,0,0,0,0
+1604651649-13672,"#nota #church
+",notes,Subject 32786291,/projects/zooniverse/gravity-spy/talk/subjects/32786291;/projects/zooniverse/gravity-spy/talk/tags/nota;/projects/zooniverse/gravity-spy/talk/tags/church,,,,0,0,0,0,0,0,0,0
+1604737489-8520,"Not sure to do with these midfrequency lines that are too high to be powerlines or air compressors
+",notes,Subject 3831570,,,,,0,0,1,0,0,0,0,0
+1604767835-19388,"50sb
+",notes,Subject 25740283,/projects/zooniverse/gravity-spy/talk/subjects/25740283,,,,0,0,0,0,0,0,0,0
+1604876002-5650,"no idea what this is? tinkering?
+",notes,Subject 8635132,/projects/zooniverse/gravity-spy/talk/subjects/8635132,,,,0,0,1,0,1,0,0,0
+1604560027-2009,"wow nice ugly koi with a firework top
+",notes,Subject 10667101,/projects/zooniverse/gravity-spy/talk/subjects/10667101,,,,1,1,0,0,0,0,0,0
+1604801508-5228,"#spearhead
+",notes,Subject 8649226,/projects/zooniverse/gravity-spy/talk/subjects/8649226;/projects/zooniverse/gravity-spy/talk/tags/spearhead,,,,0,0,0,0,0,0,0,0
+1604763558-13372,"#blip with two objects on the left
+",notes,Subject 3541281,/projects/zooniverse/gravity-spy/talk/subjects/3541281;/projects/zooniverse/gravity-spy/talk/tags/blip,,,,0,0,0,0,0,0,0,0
+1604585714-7201,"Possible #weak-violin-harmonic
+",notes,Subject 3776273,/projects/zooniverse/gravity-spy/talk/tags/weak-violin-harmonic,,,,0,0,0,0,0,0,0,0
+1604559003-1814,"#blip_plus_low-frequency_blob
+",notes,Subject 40381010,/projects/zooniverse/gravity-spy/talk/subjects/40381010;/projects/zooniverse/gravity-spy/talk/tags/blip_plus_low-frequency_blob,,,,0,0,0,0,0,0,0,0
+1604846628-1335,"#jewel
+",notes,Subject 6355783,/projects/zooniverse/gravity-spy/talk/subjects/6355783;/projects/zooniverse/gravity-spy/talk/tags/jewel,,,,0,0,0,0,0,0,0,0
+1604571188-4204,"256 Hz line
+",notes,Subject 25694397,,,,,0,0,0,0,0,0,0,0
+1604775091-15003,"Netted band with increasing frequency; 40-150 Hz
+",notes,Subject 3821845,/projects/zooniverse/gravity-spy/talk/subjects/3821845,,,,0,0,0,0,0,0,0,0
+1604894374-8470,"lfb but very interesting format, chirp like qualities in a merger type scenario
+",notes,Subject 5752759,/projects/zooniverse/gravity-spy/talk/subjects/5752759,,,,0,0,0,0,0,1,0,0
+1604782360-22446,"25fb
+",notes,Subject 25773008,/projects/zooniverse/gravity-spy/talk/subjects/25773008,,,,0,0,0,0,0,0,0,0
+1604528641-164,"I've since been classifying them all as #25sb
+",notes,Subject 25772112,/projects/zooniverse/gravity-spy/talk/tags/25sb,,,,0,0,0,0,0,0,0,0
+1604694305-2018,"Another lace... mid range line...
+",notes,Subject 3828317,,,,,0,0,0,0,0,0,0,0
+1604702922-103,"scattered light and 1080?
+",notes,Subject 5737643,/projects/zooniverse/gravity-spy/talk/subjects/5737643,,,,0,0,0,0,1,0,0,0
+1604739412-8779,"Violin mode with 1080
+",notes,Subject 6354566,/projects/zooniverse/gravity-spy/talk/subjects/6354566,,,,0,0,0,0,0,0,0,0
+1604735111-9100,"oops tagged power line this time around. But everything is OK symmetry does not exist chaos does exist. Random musings 🤣
+",notes,Subject 3774688,,,,,1,1,0,0,0,0,0,0
+1604855480-2785,"MicroHF
+",notes,Subject 5870339,,,,,0,0,0,0,0,0,0,0
+1604462258-781,"Bridge
+",notes,Subject 5670899,/projects/zooniverse/gravity-spy/talk/subjects/5670899,,,,0,0,0,0,0,0,0,0
+1604537780-2091,"#30fb
+",notes,Subject 25744621,/projects/zooniverse/gravity-spy/talk/subjects/25744621;/projects/zooniverse/gravity-spy/talk/tags/30fb,,,,0,0,0,0,0,0,0,0
+1604843918-803,"
+",notes,Subject 5740354,,,,,0,0,0,0,0,0,0,0
+1604577661-5630,"IT is a small round dot, midway between 512 Hz and 1024 Hz
+",notes,Subject 25731618,/projects/zooniverse/gravity-spy/talk/subjects/25731618,,,,0,0,0,0,0,0,0,0
+1604644471-12341,"Has a violin mode harmonic glitch at top and low frequency line at bottom.
+",notes,Subject 38167671,,,,,0,0,0,0,0,0,0,0
+1604760930-12182,"#helix at low frequency
+",notes,Subject 11068190,/projects/zooniverse/gravity-spy/talk/tags/helix,,,,0,0,0,0,0,0,0,0
+1604775085-21070,"Yes, these are 1 sec period Eiffels.
+",notes,Subject 25661270,,,,,0,0,0,0,0,0,0,0
+1604734426-8867,"#wandering-line
+",notes,Subject 10514323,/projects/zooniverse/gravity-spy/talk/tags/wandering-line,,,,0,0,0,0,0,0,0,0
+1604678555-320,"Offset jewel lfb #wheat?
+",notes,Subject 10981464,/projects/zooniverse/gravity-spy/talk/subjects/10981464;/projects/zooniverse/gravity-spy/talk/tags/wheat,,,,0,0,0,0,1,0,0,0
+1604649156-13214,"koi?
+",notes,Subject 35788482,/projects/zooniverse/gravity-spy/talk/subjects/35788482,,,,0,0,0,0,1,0,0,0
+1604500268-1688,"Could it be another #1080 with an octave ( #2160 ) harmonic distortion?
+",notes,Subject 5864841,/projects/zooniverse/gravity-spy/talk/subjects/5864841;/projects/zooniverse/gravity-spy/talk/tags/1080;/projects/zooniverse/gravity-spy/talk/tags/2160,,,,0,0,0,0,1,0,0,0
+1604761855-17727,"250 line
+",notes,Subject 25722790,/projects/zooniverse/gravity-spy/talk/subjects/25722790,,,,0,0,0,0,0,0,0,0
+1604694379-2031,"#nota. #nettedband ?
+",notes,Subject 8637826,/projects/zooniverse/gravity-spy/talk/subjects/8637826;/projects/zooniverse/gravity-spy/talk/tags/nota;/projects/zooniverse/gravity-spy/talk/tags/nettedband,,,,0,0,0,0,1,0,0,0
+1604521866-2914,"Probably whistle in high frequency
+",notes,Subject 3777885,/projects/zooniverse/gravity-spy/talk/subjects/3777885,,,,0,0,0,0,0,0,0,0
+1604644110-12162,"50sb
+",notes,Subject 25648989,,,,,0,0,0,0,0,0,0,0
+1604743414-12244,"Possibly a very unusual light modulation
+",notes,Subject 3827493,/projects/zooniverse/gravity-spy/talk/subjects/3827493,,,,0,0,0,0,0,0,0,0
+1604814878-7180,"unusual #asymmetric #whistle with marked change of gradient. Not seen before.
+ @EcceruElme
+",notes,Subject 6066241,/projects/zooniverse/gravity-spy/talk/subjects/6066241;/projects/zooniverse/gravity-spy/talk/tags/asymmetric;/projects/zooniverse/gravity-spy/talk/tags/whistle;/users/EcceruElme,@EcceruElme,,,0,0,1,1,0,0,0,0
+1604636392-6744,"Burst with sinusoidal (chirpish) limbs
+",notes,Subject 3542469,/projects/zooniverse/gravity-spy/talk/subjects/3542469,,,,0,0,0,0,0,0,0,0
+1604551022-5371,"32 hz flying burst
+",notes,Subject 6698816,/projects/zooniverse/gravity-spy/talk/subjects/6698816,,,,0,0,0,0,0,0,0,0
+1604815327-7311,"#chirp
+",notes,Subject 5864543,/projects/zooniverse/gravity-spy/talk/subjects/5864543;/projects/zooniverse/gravity-spy/talk/tags/chirp,,,,0,0,0,0,0,0,0,0
+1604736728-9645,"scary teddy bear face ooooooooooooo
+",notes,Subject 11061043,/projects/zooniverse/gravity-spy/talk/subjects/11061043,,,,1,1,0,0,0,0,0,0
+1604573360-4606,"?
+",notes,Subject 25694699,/projects/zooniverse/gravity-spy/talk/subjects/25694699,,,,0,0,0,0,1,0,0,0
+1604866655-4486,"#noneoftheabove
+",notes,Subject 8633832,/projects/zooniverse/gravity-spy/talk/subjects/8633832;/projects/zooniverse/gravity-spy/talk/tags/noneoftheabove,,,,0,0,0,1,0,0,0,0
+1604723366-4111,"koiish #ram 60 Hz power line frequency damping. This glitch is  becoming more frequently seen
+",notes,Subject 6690279,/projects/zooniverse/gravity-spy/talk/subjects/6690279;/projects/zooniverse/gravity-spy/talk/tags/ram,,,,0,0,0,0,0,0,0,0
+1604893529-8312,"Initial #45mhzlightmodulation then #repeating #tomte
+",notes,Subject 2199683,/projects/zooniverse/gravity-spy/talk/tags/45mhzlightmodulation;/projects/zooniverse/gravity-spy/talk/tags/repeating;/projects/zooniverse/gravity-spy/talk/tags/tomte,,,,0,0,0,1,0,0,0,0
+1604684415-899,"basic #koi
+",notes,Subject 8633050,/projects/zooniverse/gravity-spy/talk/subjects/8633050;/projects/zooniverse/gravity-spy/talk/tags/koi,,,,0,0,0,0,0,0,0,0
+1604728655-7378,"very strange vmh an audio glitch perhaps? also a short power line signal? so possibly something being switched on or off?
+",notes,Subject 10593320,/projects/zooniverse/gravity-spy/talk/subjects/10593320,,,,1,0,0,1,1,0,0,0
+1604893191-8266,"30 hz straight line and 60 Hz top line that curves, looks like an umbrella
+",notes,Subject 6078214,/projects/zooniverse/gravity-spy/talk/subjects/6078214,,,,0,0,0,0,0,0,0,0
+1604728616-6663,"could be two whistle variants in one subject, also 64 Hz intermittent line @Mjtbarrett #diagnostic
+",notes,Subject 6064061,/projects/zooniverse/gravity-spy/talk/subjects/6064061;/users/Mjtbarrett;/projects/zooniverse/gravity-spy/talk/tags/diagnostic,@Mjtbarrett,,,0,0,0,1,0,0,0,0
+1604740493-8970,"#lowfrequencyhelix ?
+",notes,Subject 3825027,/projects/zooniverse/gravity-spy/talk/tags/lowfrequencyhelix,,,,0,0,0,1,1,0,0,0
+1604758460-17005,"50sb
+",notes,Subject 25650602,/projects/zooniverse/gravity-spy/talk/subjects/25650602,,,,0,0,0,0,0,0,0,0
+1604744557-12644,"#light-modulation
+",notes,Subject 3540046,/projects/zooniverse/gravity-spy/talk/subjects/3540046;/projects/zooniverse/gravity-spy/talk/tags/light-modulation,,,,0,0,0,0,0,0,0,0
+1604762683-13203,"#hay
+",notes,Subject 3540974,/projects/zooniverse/gravity-spy/talk/subjects/3540974;/projects/zooniverse/gravity-spy/talk/tags/hay,,,,0,0,0,0,0,0,0,0
+1604882741-6755,"~85Hz feature splits into two tones of 2s duration, at ~80 and 90 Hz.
+",notes,Subject 8632682,/projects/zooniverse/gravity-spy/talk/subjects/8632682,,,,0,0,0,0,0,0,0,0
+1604207094-4366,"None of the above, or, birthday cake.
+",notes,Subject 3773779,,,,,0,1,0,0,0,0,0,0
+1604815565-7357,"#tomte
+",notes,Subject 6697065,/projects/zooniverse/gravity-spy/talk/tags/tomte,,,,0,0,0,0,0,0,0,0
+1604718335-2921,"#LF line, MF line segments,32-100 wavy band
+",notes,Subject 8631875,/projects/zooniverse/gravity-spy/talk/subjects/8631875,,,,0,0,0,0,0,0,0,0
+1604743468-9522,"#scratchylf
+",notes,Subject 3825438,/projects/zooniverse/gravity-spy/talk/subjects/3825438;/projects/zooniverse/gravity-spy/talk/tags/scratchylf,,,,0,0,0,0,0,0,0,0
+1604573821-4729,"Good catch!
+This is an HFB500, also known as #pizzicato for their hypothetical relationship to violin mode resonances.  This is already a proposed new glitch class. Thanks for flagging it! They also come in versions near 1024Hz and (rarely) at both 512 and 1024Hz simultaneously.
+They can be classified as ""None Of The Above"" until one day this class becomes official.
+",notes,Subject 39543737,/projects/zooniverse/gravity-spy/talk/tags/pizzicato;/projects/zooniverse/gravity-spy/talk/762/935664,,TRUE,,1,0,0,1,0,1,0,0
+1604769135-19721,"Thanks. I will label them all as 25sb, but I will exclude the big fat ones that are extending, say, below 15Hz, particularly if they are irregular or show prominences sticking up in frame 4 @EcceruElme
+",notes,Subject 25665164,/users/EcceruElme,@EcceruElme,,,0,1,0,1,0,1,0,0
+1604815145-7265,"#lightmodulaton
+",notes,Subject 6074243,/projects/zooniverse/gravity-spy/talk/tags/lightmodulaton,,,,0,0,0,0,0,0,0,0
+1604883351-6835,"Hello.
+A merged class between #lowfreq and #scatter is possible or not?
+",notes,Subject 3838331,/projects/zooniverse/gravity-spy/talk/subjects/3838331;/projects/zooniverse/gravity-spy/talk/tags/lowfreq;/projects/zooniverse/gravity-spy/talk/tags/scatter,,,,0,0,0,1,1,0,0,1
+1604744460-12555,"25772932.0
+",notes,Subject 20891286,/projects/zooniverse/gravity-spy/talk/subjects/25772932,,,,0,0,0,1,0,0,0,0
+1604716441-2474,"Too low to be a caterpillar, but maybe a low caterpillar? Also has head and a tail between 0-15hz. I chose #LowFrequencyLine so the machine will learn more lines - Note the faint blip at 0.0 in all frames. Noisy activity at 20hz on the right hand side.
+",notes,Subject 5670730,/projects/zooniverse/gravity-spy/talk/subjects/5670730;/projects/zooniverse/gravity-spy/talk/tags/LowFrequencyLine,,,,0,0,0,0,1,0,0,0
+1604776557-21416,"shower or curtain
+",notes,Subject 10967395,,,,,0,0,0,0,0,0,0,0
+1604753591-10996,"#swish
+",notes,Subject 10538333,/projects/zooniverse/gravity-spy/talk/subjects/10538333;/projects/zooniverse/gravity-spy/talk/tags/swish,,,,0,0,0,0,0,0,0,0
+1604644386-12299,"bass drum and violin
+",notes,Subject 38105354,/projects/zooniverse/gravity-spy/talk/subjects/38105354,,,,0,1,0,0,0,0,0,0
+1604632030-10375,"triggered #off-center and a duplicate of Subject 34167473
+",notes,Subject 34167597,/projects/zooniverse/gravity-spy/talk/subjects/34167597;/projects/zooniverse/gravity-spy/talk/tags/off-center;/projects/zooniverse/gravity-spy/talk/subjects/34167473,,,,0,0,0,1,0,0,0,0
+1604714521-4980,"Possibly two overlapping glitches.
+",notes,Subject 3823798,,,,,0,0,0,0,0,0,0,0
+1604611219-8804,"similar to old #lily
+",notes,Subject 34044312,/projects/zooniverse/gravity-spy/talk/subjects/34044312;/projects/zooniverse/gravity-spy/talk/tags/lily,,,,0,0,0,0,0,0,0,0
+1604461026-304,"#chirpish
+",notes,Subject 3828716,/projects/zooniverse/gravity-spy/talk/tags/chirpish,,,,0,0,0,1,0,0,0,0
+1604847512-1521,"repeating tomte
+",notes,Subject 9692499,/projects/zooniverse/gravity-spy/talk/subjects/9692499,,,,0,0,0,0,0,0,0,0
+1604498424-1485,"#reversed_chirp #blip
+",notes,Subject 5736886,/projects/zooniverse/gravity-spy/talk/tags/reversed_chirp;/projects/zooniverse/gravity-spy/talk/tags/blip,,,,0,0,0,0,0,0,0,0
+1604749114-14329,"u blip one side is a needle style blip
+",notes,Subject 10564298,/projects/zooniverse/gravity-spy/talk/subjects/10564298,,,,0,0,0,0,0,0,0,0
+1604723675-4592,"@BLGoodwin yes, you are right, it's definitely higher than 100Hz. I think it's the end point of 160 (frequency is approximate again) based on its morphology and that the 160 lines look descending continuously, this one is slightly descending too so I think it's the end point. The dead zone (slick) is another interesting common point.
+",notes,Subject 3828839,/users/BLGoodwin,@BLGoodwin,,,0,0,0,1,0,1,1,0
+1604705668-681,"Thanks, I've added it to my collection. Interesting ram
+",notes,Subject 8628193,,,,,1,0,0,0,0,1,0,0
+1604679722-33,"#70hzline
+",notes,Subject 3821857,/projects/zooniverse/gravity-spy/talk/subjects/3821857;/projects/zooniverse/gravity-spy/talk/tags/70hzline,,,,0,0,0,0,0,0,0,0
+1604749488-14473,"#fork
+",notes,Subject 10963021,/projects/zooniverse/gravity-spy/talk/subjects/10963021;/projects/zooniverse/gravity-spy/talk/tags/fork,,,,0,0,0,0,0,0,0,0
+1604722701-6280,"#koifish and #lowfrequencyburst or #possiblenewglitch
+",notes,Subject 10967904,/projects/zooniverse/gravity-spy/talk/tags/koifish;/projects/zooniverse/gravity-spy/talk/tags/lowfrequencyburst;/projects/zooniverse/gravity-spy/talk/tags/possiblenewglitch,,,,0,0,0,1,0,0,0,0
+1604843752-761,"blip and echo and #1secperiod
+",notes,Subject 5957113,/projects/zooniverse/gravity-spy/talk/subjects/5957113;/projects/zooniverse/gravity-spy/talk/tags/1secperiod,,,,0,0,0,0,0,0,0,0
+1604763965-18181,"250 Hz jewel
+",notes,Subject 25694787,/projects/zooniverse/gravity-spy/talk/subjects/25694787,,,,0,0,0,0,0,0,0,0
+1604731119-7621,"wavy power line?
+",notes,Subject 6071999,/projects/zooniverse/gravity-spy/talk/subjects/6071999,,,,0,0,0,0,1,0,0,0
+1604627286-10053,"#repeating #lfb
+",notes,Subject 35749551,/projects/zooniverse/gravity-spy/talk/subjects/35749551;/projects/zooniverse/gravity-spy/talk/tags/repeating;/projects/zooniverse/gravity-spy/talk/tags/lfb,,,,0,0,0,0,0,0,0,0
+1604848077-1580,"double blip? companion at 0.5s
+",notes,Subject 8644114,/projects/zooniverse/gravity-spy/talk/subjects/8644114,,,,0,0,0,0,1,0,0,0
+1604625268-5752,"Experts say ""Koi Fish""
+",notes,Subject 3778483,/projects/zooniverse/gravity-spy/talk/subjects/3778483,,,,0,0,0,0,0,0,0,0
+1604565719-3054,"I think this is more like Virgo Viola than a 170 line
+",notes,Subject 25762211,/projects/zooniverse/gravity-spy/talk/subjects/25762211,,,,0,0,0,0,0,0,1,0
+1604645383-12549,"Good question: These glitches are a class in their own right, and were added as such to levels 5 and 7 a few months ago under the name Crown (they're not yet in the Field Guide). At level 4 and earlier, they can be classified as None Of The Above, but you can already make a collection of them and study their variability. They are fairly common at Livingston.
+Low Frequency Bursts should indeed touch (even reach beyond, although we can't see that) the bottom edge at 10Hz.
+",notes,Subject 31864817,,,TRUE,,0,0,0,0,0,1,0,0
+1604748071-10135,"LFL, 22 Hz
+",notes,Subject 6256556,/projects/zooniverse/gravity-spy/talk/subjects/6256556,,,,0,0,0,0,0,0,0,0
+1604546061-15,"#hfb500er14
+",notes,Subject 38046867,/projects/zooniverse/gravity-spy/talk/subjects/38046867;/projects/zooniverse/gravity-spy/talk/tags/hfb500er14,,,,0,0,0,0,0,0,0,0
+1604721148-12193,"Looks like a Tomte with a small blip superimposed, maybe starting to become a Koi Fish
+",notes,Subject 3824199,/projects/zooniverse/gravity-spy/talk/subjects/3824199,,,,0,0,0,0,0,0,0,0
+1604780289-22066,"slow paralles ? @EcceruElme
+",notes,Subject 5844274,/users/EcceruElme,@EcceruElme,,,0,0,0,1,1,0,0,0
+1604528166-93,"Lemon
+",notes,Subject 25649185,,,,,0,0,0,0,0,0,0,0
+1604771979-14587,"#Freddy
+",notes,Subject 3827266,/projects/zooniverse/gravity-spy/talk/subjects/3827266;/projects/zooniverse/gravity-spy/talk/tags/Freddy,,,,0,0,0,0,0,0,0,0
+1604696103-2385,"mmmmm🤔
+",notes,Subject 6838479,/projects/zooniverse/gravity-spy/talk/subjects/6838479,,,,1,0,0,0,0,0,0,0
+1604537844-2123,"50 HZ  this is becoming common will it be named for Virgo 02A
+",notes,Subject 25755551,,,,,0,0,0,0,0,0,0,0
+1604531160-650,"Welcome to Gravity Spy Talk, and well observed!
+Yes, these features are processing artefacts. Both the time resolution and the frequency resolution of our spectrograms are limited, and there's a tradeoff between the two, and the time resolution at lower frequencies is always coarser than at higher frequencies (e.g. twice as coarse at 128Hz than it is at 256Hz). The present subject was processed with fairly fine frequency resolution, by matching sine wave trains with about 20 crests and troughs at various frequencies to the signal at various points in time; thus the time resolution is relatively coarse and everything has got stretched out horizontally to some extent.
+",notes,Subject 35429395,,,TRUE,,0,0,0,0,0,1,1,1
+1604846754-1361,"#dwarfs
+",notes,Subject 6069476,/projects/zooniverse/gravity-spy/talk/subjects/6069476;/projects/zooniverse/gravity-spy/talk/tags/dwarfs,,,,0,0,0,0,0,0,0,0
+1604704221-390,"#violinmode. Fundamental missing.
+",notes,Subject 5868987,/projects/zooniverse/gravity-spy/talk/subjects/5868987;/projects/zooniverse/gravity-spy/talk/tags/violinmode,,,,0,0,0,0,0,0,0,0
+1604553818-1276,"#high_frequency_burst
+",notes,Subject 36852318,/projects/zooniverse/gravity-spy/talk/subjects/36852318;/projects/zooniverse/gravity-spy/talk/tags/high_frequency_burst,,,,0,0,0,0,0,0,0,0
+1604864090-4211,"#noneoftheabove
+",notes,Subject 3844777,/projects/zooniverse/gravity-spy/talk/subjects/3844777;/projects/zooniverse/gravity-spy/talk/tags/noneoftheabove,,,,0,0,0,0,0,0,0,0
+1604205608-4068,"and a whistle near t=0.8
+",notes,Subject 40125556,/projects/zooniverse/gravity-spy/talk/subjects/40125556,,,,0,0,0,0,0,0,0,0
+1604717914-2841,"#esdoverflow interesting energy reverberations? bottom right of glitch
+",notes,Subject 11899744,/projects/zooniverse/gravity-spy/talk/tags/esdoverflow,,,,0,0,0,0,1,0,0,0
+1604771135-20244,"1000 Hz micro chirp perhaps
+",notes,Subject 5851226,/projects/zooniverse/gravity-spy/talk/subjects/5851226,,,,0,0,0,0,0,0,0,0
+1604751041-10503,"60 Hz small burst ascending
+",notes,Subject 5688492,/projects/zooniverse/gravity-spy/talk/subjects/5688492,,,,0,0,0,0,0,0,0,0
+1604639250-11233,"50sb; unusual structure
+",notes,Subject 25740096,,,,,0,0,0,0,0,0,0,0
+1604738632-8631,"#doublekoi
+",notes,Subject 10972851,/projects/zooniverse/gravity-spy/talk/subjects/10972851;/projects/zooniverse/gravity-spy/talk/tags/doublekoi,,,,0,0,0,0,0,0,0,0
+1604803939-5817,"chirp and echo? fly and echo?
+",notes,Subject 10526089,/projects/zooniverse/gravity-spy/talk/subjects/10526089,,,,0,0,0,0,1,0,0,0
+1604719908-5782,"#ascendingline
+",notes,Subject 6082829,/projects/zooniverse/gravity-spy/talk/tags/ascendingline,,,,0,0,0,0,0,0,0,0
+1604752045-15266,"LFL
+",notes,Subject 25664802,/projects/zooniverse/gravity-spy/talk/subjects/25664802,,,,0,0,0,0,0,0,0,0
+1604721876-3882,"Scratchy plus blip?
+",notes,Subject 3536721,,,,,0,0,0,0,1,0,0,0
+1604638675-7069,"Small #lowfrequencyburst or something else?
+",notes,Subject 3772946,/projects/zooniverse/gravity-spy/talk/subjects/3772946;/projects/zooniverse/gravity-spy/talk/tags/lowfrequencyburst,,,,0,0,0,0,1,0,0,0
+1604749633-10399,"NOTA.  Mid-frequency line.
+",notes,Subject 3834155,,,,,0,0,0,0,0,0,0,0
+1604757777-16842,"9690599.0 spectacular, symmetrical. @ecceruelme a  nice glitch
+possibly #ram and reddy brown color. #buddah #buddha like perhaps
+#quantitative #diagnostic  exciting
+looks cropped
+",notes,Subject 20884084,/projects/zooniverse/gravity-spy/talk/subjects/9690599;/users/ecceruelme;/projects/zooniverse/gravity-spy/talk/tags/ram;/projects/zooniverse/gravity-spy/talk/tags/buddah;/projects/zooniverse/gravity-spy/talk/tags/buddha;/projects/zooniverse/gravity-spy/talk/tags/quantitative;/projects/zooniverse/gravity-spy/talk/tags/diagnostic,@ecceruelme,,😀;😀,1,1,0,1,0,0,0,0
+1604727734-6260,"sim search 3821757
+",notes,Subject 3818093,/projects/zooniverse/gravity-spy/talk/subjects/3821757,,,,0,0,0,0,0,0,0,0
+1604541250-4520,"#faintviolin
+",notes,Subject 5847694,/projects/zooniverse/gravity-spy/talk/subjects/5847694;/projects/zooniverse/gravity-spy/talk/tags/faintviolin,,,,0,0,0,0,0,0,0,0
+1604770618-14406,"A small blip above a burst at 30 Hz, joined with a narrow join. Not like a christingle blip
+",notes,Subject 3816716,/projects/zooniverse/gravity-spy/talk/subjects/3816716,,,,0,0,0,0,0,0,0,0
+1604729521-7142,"I can see why subject is called #organpipes.  Some look like the  #Effel tower, or a #church building.
+Thank you
+",notes,Subject 10524335,/projects/zooniverse/gravity-spy/talk/tags/organpipes;/projects/zooniverse/gravity-spy/talk/tags/Effel;/projects/zooniverse/gravity-spy/talk/tags/church,,,,0,0,0,0,0,1,0,0
+1604197530-5,"#viola
+",notes,Subject 25662147,/projects/zooniverse/gravity-spy/talk/tags/viola,,,,0,0,0,0,0,0,0,0
+1604566364-3155,"No a clear #glitch here , maybe just #noise
+",notes,Subject 25648662,/projects/zooniverse/gravity-spy/talk/tags/glitch;/projects/zooniverse/gravity-spy/talk/tags/noise,,,,0,0,0,1,0,0,0,0
+1604650116-13375,"frame 4 #bnschirp or imposter
+",notes,Subject 37002997,/projects/zooniverse/gravity-spy/talk/subjects/37002997;/projects/zooniverse/gravity-spy/talk/tags/bnschirp,,,,0,0,0,0,0,0,0,0
+1604860356-3647,"#wanderingLine, with an obvious high-amplitude glitch at around 2048 Hz.
+",notes,Subject 5845522,/projects/zooniverse/gravity-spy/talk/subjects/5845522;/projects/zooniverse/gravity-spy/talk/tags/wanderingLine,,,,0,0,0,0,0,0,0,0
+1604873995-5414,"Netted band
+",notes,Subject 8629605,/projects/zooniverse/gravity-spy/talk/subjects/8629605,,,,0,0,0,0,0,0,0,0
+1604724183-4327,"#mainshum
+",notes,Subject 10566462,/projects/zooniverse/gravity-spy/talk/subjects/10566462;/projects/zooniverse/gravity-spy/talk/tags/mainshum,,,,0,0,0,1,0,0,0,0
+1604708165-1127,"#suspect lfb?
+",notes,Subject 3817785,/projects/zooniverse/gravity-spy/talk/tags/suspect,,,,0,0,0,0,1,0,0,0
+1604738975-8699,"#repeatingblips
+",notes,Subject 5802865,/projects/zooniverse/gravity-spy/talk/tags/repeatingblips,,,,0,0,0,1,0,0,0,0
+1604629202-6062,"light modulated lfb?
+",notes,Subject 3954124,/projects/zooniverse/gravity-spy/talk/subjects/3954124,,,,0,0,0,0,0,0,0,0
+1604548026-409,"#pizzicato
+",notes,Subject 38165527,/projects/zooniverse/gravity-spy/talk/subjects/38165527;/projects/zooniverse/gravity-spy/talk/tags/pizzicato,,,,0,0,0,0,0,0,0,0
+1604584547-7024,"#damped_crowns
+",notes,Subject 39828572,/projects/zooniverse/gravity-spy/talk/subjects/39828572;/projects/zooniverse/gravity-spy/talk/tags/damped_crowns,,,,0,0,0,0,0,0,0,0
+1604860772-3680,"#frame4glitch almost no glitch weak partial scratchy centred around 1024 hz and haphazard chain around 300 hz and also 20 hz to  300 hz chain line?
+",notes,Subject 6639003,/projects/zooniverse/gravity-spy/talk/subjects/6639003;/projects/zooniverse/gravity-spy/talk/tags/frame4glitch,,,,0,0,0,0,0,0,0,0
+1604691226-10877,"Slowly oscillating line(s), 20-30 Hz
+",notes,Subject 3821172,/projects/zooniverse/gravity-spy/talk/subjects/3821172,,,,0,0,0,0,0,0,0,0
+1604719954-3339,"special
+",notes,Subject 3830839,,,,,0,0,0,0,0,1,0,0
+1604576473-5338,"Ok. Thank you for the help.
+",notes,Subject 35763232,,,,,0,0,0,0,0,0,0,0
+1604537401-3837,"MicroHF
+",notes,Subject 5870705,/projects/zooniverse/gravity-spy/talk/subjects/5870705,,,,0,0,1,0,0,0,0,0
+1604761478-12271,"very strange shaped mid frequency bursts and frequency modulation, damping
+",notes,Subject 5740607,/projects/zooniverse/gravity-spy/talk/subjects/5740607,,,,0,0,0,0,0,0,0,0
+1604727826-6347,"#fly
+",notes,Subject 3536574,/projects/zooniverse/gravity-spy/talk/tags/fly,,,,0,0,0,0,0,0,0,0
+1604628582-10215,"#chirpish
+",notes,Subject 20889926,/projects/zooniverse/gravity-spy/talk/subjects/20889926;/projects/zooniverse/gravity-spy/talk/tags/chirpish,,,,0,0,0,0,0,0,0,0
+1604763585-18069,"Viola
+",notes,Subject 25655025,/projects/zooniverse/gravity-spy/talk/subjects/25655025,,,,0,0,1,0,0,0,0,0
+1604705668-684,"something spooky again, comment subject debacle. I can't say.
+",notes,Subject 8628193,,,,,0,0,0,0,0,0,0,0
+1604726790-5825,"vertical power line?
+",notes,Subject 8630661,/projects/zooniverse/gravity-spy/talk/subjects/8630661,,,,0,0,0,0,0,0,0,0
+1604683434-717,"#A blip an energetic tomte
+",notes,Subject 6697503,/projects/zooniverse/gravity-spy/talk/subjects/6697503,,,,0,0,0,0,0,0,0,0
+1604539717-4227,"#No-glitch...
+",notes,Subject 3773715,/projects/zooniverse/gravity-spy/talk/tags/No-glitch,,,,0,0,0,0,0,0,0,0
+1604745451-12974,"#1sec
+",notes,Subject 10511852,/projects/zooniverse/gravity-spy/talk/tags/1sec,,,,0,0,0,0,0,0,0,0
+1604721019-12178,"#lowfrequencysplatter ?
+",notes,Subject 3827175,/projects/zooniverse/gravity-spy/talk/tags/lowfrequencysplatter,,,,0,0,0,0,0,0,0,0
+1604504864-2658,"#2000hz
+",notes,Subject 5865426,/projects/zooniverse/gravity-spy/talk/tags/2000hz,,,,0,0,0,0,0,0,0,0
+1604720302-3277,"Similar to caterpillar, but at 50 Hz
+",notes,Subject 5808611,/projects/zooniverse/gravity-spy/talk/subjects/5808611,,,,0,0,0,0,0,0,0,0
+1604644173-12183,"25fb
+",notes,Subject 25772588,/projects/zooniverse/gravity-spy/talk/subjects/25772588,,,,0,0,1,0,1,0,0,0
+1604804066-15787,"I can see a wave t=0 maximum, t = +/-2 = minimum, peak is high energy 25 cigar shaped 1 second duration, 16 hz
+the minima are lower energy 12.5? 8hz. half energy? half frequency? perhaps?
+",notes,Subject 3844211,/projects/zooniverse/gravity-spy/talk/subjects/3844211,,,,0,0,0,0,0,0,0,0
+1604776862-15200,"frame 4 #paireddoves 
+",notes,Subject 2202147,/projects/zooniverse/gravity-spy/talk/subjects/2202147;/projects/zooniverse/gravity-spy/talk/tags/paireddoves,,,,0,0,0,0,0,0,0,0
+1604759744-11921,"LFL with chirp @christingle
+",notes,Subject 10153456,/projects/zooniverse/gravity-spy/talk/subjects/10153456;/users/christingle,@christingle,,,0,0,0,0,0,0,0,0
+1604567588-3477,"HF signals; maybe see also Subject 25661115
+",notes,Subject 25655283,/projects/zooniverse/gravity-spy/talk/subjects/25655283,,,,0,0,0,0,0,0,0,0
+1604726835-5899,"#dagger #koiskeleton
+",notes,Subject 10511790,/projects/zooniverse/gravity-spy/talk/tags/dagger;/projects/zooniverse/gravity-spy/talk/tags/koiskeleton,,,,0,0,0,0,0,0,0,0
+1604563838-2747,"#crown
+",notes,Subject 40379087,/projects/zooniverse/gravity-spy/talk/subjects/40379087;/projects/zooniverse/gravity-spy/talk/tags/crown,,,,0,0,0,0,0,0,0,0
+1604648824-13135,"#cross #hfb
+",notes,Subject 39388246,/projects/zooniverse/gravity-spy/talk/subjects/39388246;/projects/zooniverse/gravity-spy/talk/tags/cross;/projects/zooniverse/gravity-spy/talk/tags/hfb,,,,0,0,0,0,0,0,0,0
+1604640141-7453,"#midfrequencyline
+",notes,Subject 3537313,/projects/zooniverse/gravity-spy/talk/tags/midfrequencyline,,,,0,0,0,0,0,0,0,0
+1604748384-13921,"#koi with #weak arms
+",notes,Subject 3826056,/projects/zooniverse/gravity-spy/talk/subjects/3826056;/projects/zooniverse/gravity-spy/talk/tags/koi;/projects/zooniverse/gravity-spy/talk/tags/weak,,,,0,1,0,0,0,0,0,0
+1604557824-1581,"6698116.0 nice glitch
+",notes,Subject 10977143,/projects/zooniverse/gravity-spy/talk/subjects/6698116,,,,0,0,0,0,1,0,0,0
+1604552343-1083,"#blib #hybrid with #lowenergyburst ? Doesn't really look like #lightmodulation
+",notes,Subject 3774933,/projects/zooniverse/gravity-spy/talk/subjects/3774933;/projects/zooniverse/gravity-spy/talk/tags/blib;/projects/zooniverse/gravity-spy/talk/tags/hybrid;/projects/zooniverse/gravity-spy/talk/tags/lowenergyburst;/projects/zooniverse/gravity-spy/talk/tags/lightmodulation,,,,0,0,0,0,0,0,0,0
+1604627583-5899,"#aerolinine in #combination with a #fat_horizontal_lf
+",notes,Subject 3496868,/projects/zooniverse/gravity-spy/talk/subjects/3496868;/projects/zooniverse/gravity-spy/talk/tags/aerolinine;/projects/zooniverse/gravity-spy/talk/tags/combination;/projects/zooniverse/gravity-spy/talk/tags/fat_horizontal_lf,,,,0,0,0,0,0,0,0,0
+1604639491-7314,"#unique
+",notes,Subject 3816318,/projects/zooniverse/gravity-spy/talk/subjects/3816318;/projects/zooniverse/gravity-spy/talk/tags/unique,,,,0,0,0,0,0,0,0,0
+1604713326-4727,"Whistle. Looks as if it is part of the glitch at 30 Hz in frame 4 @EcceruElme
+",notes,Subject 5688604,/users/EcceruElme,@EcceruElme,,,1,0,0,0,0,0,0,0
+1604621929-5608,"#noneoftheabove #ascending low frequency line around 30Hz .... Possibly massive merger on a slow time scale??! #possibledetection #freddy #possiblenewglitch
+",notes,Subject 3827026,/projects/zooniverse/gravity-spy/talk/subjects/3827026;/projects/zooniverse/gravity-spy/talk/tags/noneoftheabove;/projects/zooniverse/gravity-spy/talk/tags/ascending;/projects/zooniverse/gravity-spy/talk/tags/possibledetection;/projects/zooniverse/gravity-spy/talk/tags/freddy;/projects/zooniverse/gravity-spy/talk/tags/possiblenewglitch,,,,0,0,0,0,0,0,0,0
+1604722628-4172,"#doublekoi
+",notes,Subject 3815973,/projects/zooniverse/gravity-spy/talk/tags/doublekoi,,,,0,0,0,0,1,0,0,0
+1604642940-8198,"possible chirp?
+",notes,Subject 2208855,/projects/zooniverse/gravity-spy/talk/subjects/2208855,,,,0,0,0,0,0,0,0,0
+1604744132-12470,"#esdoverflow #scale
+",notes,Subject 10961614,/projects/zooniverse/gravity-spy/talk/tags/esdoverflow;/projects/zooniverse/gravity-spy/talk/tags/scale,,,,0,0,0,0,0,0,0,0
+1604689546-10648,"Very loud #tomte.
+",notes,Subject 3832837,/projects/zooniverse/gravity-spy/talk/tags/tomte,,,,0,0,0,0,0,0,0,0
+1604845241-1051,"#OffCenterBlip #Wierd
+",notes,Subject 8649918,/projects/zooniverse/gravity-spy/talk/subjects/8649918;/projects/zooniverse/gravity-spy/talk/tags/OffCenterBlip;/projects/zooniverse/gravity-spy/talk/tags/Wierd,,,,0,0,0,0,0,0,0,0
+1604529059-251,"#slow-parallels  ?
+",notes,Subject 37880583,/projects/zooniverse/gravity-spy/talk/subjects/37880583;/projects/zooniverse/gravity-spy/talk/tags/slow-parallels,,,,0,0,0,0,0,0,0,0
+1604605287-7746,"25sb
+",notes,Subject 25769047,/projects/zooniverse/gravity-spy/talk/subjects/25769047,,,,1,0,0,0,0,1,0,0
+1604680014-472,"yes, very nice combination  #5secperiod with #wheat + the hazy green.
+",notes,Subject 10970930,/projects/zooniverse/gravity-spy/talk/tags/5secperiod;/projects/zooniverse/gravity-spy/talk/tags/wheat,,,😃,0,0,0,0,0,0,0,0
+1604708764-1267,"Many #extremelyloud examples seem to be bursts of #koifish
+",notes,Subject 3835470,/projects/zooniverse/gravity-spy/talk/tags/extremelyloud;/projects/zooniverse/gravity-spy/talk/tags/koifish,,,,0,0,0,0,0,0,0,0
+1604571397-4254,"#hfb_mini
+",notes,Subject 36814171,/projects/zooniverse/gravity-spy/talk/subjects/36814171;/projects/zooniverse/gravity-spy/talk/tags/hfb_mini,,,,0,0,0,0,0,0,0,0
+1604882630-6726,"20 + 10 + 20 hz = 50 hz
+",notes,Subject 3832471,/projects/zooniverse/gravity-spy/talk/subjects/3832471,,,,0,0,0,0,0,0,0,0
+1604775896-15123,"blip with lfb characteristics,
+",notes,Subject 3827446,/projects/zooniverse/gravity-spy/talk/subjects/3827446,,,,0,0,0,0,0,0,0,0
+1604202483-3666,"#50sb
+",notes,Subject 25773027,/projects/zooniverse/gravity-spy/talk/tags/50sb,,,,0,0,0,0,0,0,0,0
+1604578118-5717,"Lines, 45-60 Hz
+",notes,Subject 25651126,/projects/zooniverse/gravity-spy/talk/subjects/25651126,,,,0,0,0,0,0,0,0,0
+1604694554-2101,"repeating light modulation
+",notes,Subject 3816628,,,,,1,0,0,0,0,0,0,0
+1604613975-9262,"I am glad that this was helpful
+",notes,Subject 10978909,,,,,0,0,0,0,0,0,0,0
+1604679266-9798,"#blip + highfly
+",notes,Subject 2199391,/projects/zooniverse/gravity-spy/talk/subjects/2199391;/projects/zooniverse/gravity-spy/talk/tags/blip,,,,0,1,1,0,0,0,0,0
+1604648931-13168,"It only took seconds to configure a search of INJ in November 2016. The logs are interesting but I am not authorised to access most of the links. There were quite a few hardware injections. I understand what you mean about old data with regards to glitches but data due to GW injected or real is exactly the same, constant through all eras and of course in GS chirps are glitches so we are always being duofunctional. 
+Interestingly ICECUBE detected a neutrino on 03/11/2016 follow up analyses were performed but results were not definitive. Was GW follow up done if it was not perhaps someone should do it now.
+https://pos.sissa.it/301/1015/pdf
+",notes,Subject 6255597,https://pos.sissa.it/301/1015/pdf,,TRUE,😁;😎,0,0,0,0,0,0,0,0
+1604725205-6687,"lfb color mixing @EcceruElme
+",notes,Subject 3542706,/projects/zooniverse/gravity-spy/talk/subjects/3542706;/users/EcceruElme,@EcceruElme,,,0,0,0,0,0,0,0,0
+1604504150-2470,"Tossing this in the Whistle collections, for now, but its not really looking like a normal/default Whistle.
+",notes,Subject 2192951,/projects/zooniverse/gravity-spy/talk/subjects/2192951,,,,0,0,0,0,0,0,0,0
+1604734025-8070,"#linea 80Hz
+",notes,Subject 8649554,/projects/zooniverse/gravity-spy/talk/tags/linea,,,,0,0,0,0,0,0,0,0
+1604769146-19726,"100bb
+",notes,Subject 25696573,/projects/zooniverse/gravity-spy/talk/subjects/25696573,,,,0,0,0,0,0,0,0,0
+1604735054-9082,"chirpish
+",notes,Subject 6066951,,,,,0,0,1,0,0,0,0,1
+1604647881-12960,"Hi Steven, I would.
+",notes,Subject 35874794,,,TRUE,,0,0,0,0,0,0,0,0
+1604814159-7044,"#midfrequencyline
+",notes,Subject 8658313,/projects/zooniverse/gravity-spy/talk/subjects/8658313;/projects/zooniverse/gravity-spy/talk/tags/midfrequencyline,,,,0,0,0,0,0,0,0,0
+1604736538-9539,"#scratchy with clear frequency modulation. Seen similar before.
+",notes,Subject 10524159,/projects/zooniverse/gravity-spy/talk/subjects/10524159;/projects/zooniverse/gravity-spy/talk/tags/scratchy,,,,0,0,0,0,0,0,0,0
+1604669939-8604,"Sharp chirp
+",notes,Subject 3819014,/projects/zooniverse/gravity-spy/talk/subjects/3819014,,,,0,0,0,0,0,0,0,0
+1604742882-9384,"pixkoi?
+",notes,Subject 10978435,,,,,0,0,0,0,0,0,0,0
+1604685707-1100,"Ripple at 1 sec may be linked to start of LFL at 1 sec
+",notes,Subject 8635146,/projects/zooniverse/gravity-spy/talk/subjects/8635146,,,,0,0,0,0,0,0,0,0
+1604706996-867,"Possible Light modulations, with koi fish at 0.8 sec.
+",notes,Subject 3815223,/projects/zooniverse/gravity-spy/talk/subjects/3815223,,,,0,0,0,0,1,0,0,0
+1604748936-14273,"25649005.0 perhaps a typical chirp profile?
+https://gravityspytools.ciera.northwestern.edu/search/do_similarity_search/?csrfmiddlewaretoken=9c1kEkQqXru1PAmIXc9k0MgrGT2YpUkKSIap83bs2YpRPklthbdjLMHRRs8GCLcB&database=updated_similarity_index&howmany=200&zooid=25648786&imageid=&ifo='L1'%2C+'V1'
+",notes,Subject 25648786,/projects/zooniverse/gravity-spy/talk/subjects/25649005;https://gravityspytools.ciera.northwestern.edu/search/do_similarity_search/?csrfmiddlewaretoken=9c1kEkQqXru1PAmIXc9k0MgrGT2YpUkKSIap83bs2YpRPklthbdjLMHRRs8GCLcB&database=updated_similarity_index&howmany=200&zooid=25648786&imageid=&ifo=%27L1%27%2C+%27V1%27,,,,0,0,0,0,0,0,0,0
+1604539006-2372,"#koifish ?
+",notes,Subject 35435714,/projects/zooniverse/gravity-spy/talk/subjects/35435714;/projects/zooniverse/gravity-spy/talk/tags/koifish,,,,0,0,0,0,0,0,0,0
+1604636703-10778,"its a simple #BLIP
+",notes,Subject 3771916,/projects/zooniverse/gravity-spy/talk/tags/BLIP,,,,0,0,1,0,0,0,0,0
+1604859709-3562,"same glitch, different center, #bridge
+In the bridge collection there are several different type of extremely strong scattered light reminding glitches. I am not sure this one is scattered light but if it's happen to be then something really unusual happened here.
+",notes,Subject 8635592,/projects/zooniverse/gravity-spy/talk/subjects/2218289;/projects/zooniverse/gravity-spy/talk/tags/bridge;https://www.zooniverse.org/collections/ecceruelme/bridge,,,,0,0,0,0,0,0,0,0
+1604690690-1557,"#repeatingblips
+",notes,Subject 3496370,/projects/zooniverse/gravity-spy/talk/tags/repeatingblips,,,,0,0,0,0,0,0,0,0
+1604762381-17817,"20885054.0
+",notes,Subject 10637111,/projects/zooniverse/gravity-spy/talk/subjects/20885054,,,,0,0,0,0,0,0,0,0
+1604726826-5865,"or #lily
+",notes,Subject 5740726,/projects/zooniverse/gravity-spy/talk/tags/lily,,,,0,0,0,0,1,0,0,0
+1604677442-9445,"22 and 45 Hz lines; harmonics?
+",notes,Subject 3830316,/projects/zooniverse/gravity-spy/talk/subjects/3830316,,,,0,0,1,0,1,1,0,0
+1604723547-4522,"Thanks #EcceruElme
+Incidentally, I received about 50 ""Congratulations etc about new black hole or neutron"" most repeats and most inappropriate to the task completed. Is this a glitch at zooniverse end or mine?
+",notes,Subject 9628056,/projects/zooniverse/gravity-spy/talk/tags/EcceruElme,,,,0,0,0,0,0,0,0,0
+1604729980-7571,"Netted repeating glitches around 150 Hz, with a weak netted line at 300-350 Hz Main glitches resemble Helix slightly. Repeat frequency 130RPM; a Hanford machinery problem
+",notes,Subject 3831119,/projects/zooniverse/gravity-spy/talk/subjects/3831119,,,,0,0,0,0,0,0,0,0
+1604619808-5430,"merged stacked low frequency lines below 20 hz, with intermittent 1024 hz signals,
+",notes,Subject 3944579,/projects/zooniverse/gravity-spy/talk/subjects/3944579,,,,0,0,0,0,0,0,0,0
+1604748901-10292,"Fused LFLs
+",notes,Subject 5669957,,,,,0,0,0,0,0,0,0,0
+1604607309-8155,"50 Hz line. Glitch looks like a fin.
+",notes,Subject 25760282,,,,,0,0,0,1,0,0,0,0
+1604749229-14365,"single view sim search H and L and V
+5738362.0
+further discussion in parallel https://www.zooniverse.org/projects/zooniverse/gravity-spy/talk/328/667537?comment=1111530&page=1
+",notes,Subject 5739392,/projects/zooniverse/gravity-spy/talk/subjects/5738362;https://www.zooniverse.org/projects/zooniverse/gravity-spy/talk/328/667537?comment=1111530&page=1,,,,0,0,0,0,1,0,0,0
+1604708202-4094,"what are my stats on this?
+",notes,Subject 6080117,/projects/zooniverse/gravity-spy/talk/subjects/6080117,,,,0,0,0,0,0,0,0,0
+1604678618-339,"#raventaps
+",notes,Subject 3822684,/projects/zooniverse/gravity-spy/talk/tags/raventaps,,,,0,0,0,0,1,0,0,0
+1604885778-7197,"
+0.2 to 0.4 #whiplash glitch seen many times now. Is it a detection or injection?
+
+",notes,Subject 5866413,/projects/zooniverse/gravity-spy/talk/subjects/5866413;/projects/zooniverse/gravity-spy/talk/tags/whiplash,,,,0,0,0,0,0,0,0,0
+1604734833-9011,"#esdoverflow
+",notes,Subject 10963160,/projects/zooniverse/gravity-spy/talk/subjects/10963160;/projects/zooniverse/gravity-spy/talk/tags/esdoverflow,,,,0,0,0,0,1,0,0,0
+1604645175-8509,"another low frequency line with a meandering low energy chain above 250 hz, could both of these glitches be due to aircraft movements/signals/noises/ or what about the exhaust fumes?
+",notes,Subject 2211640,/projects/zooniverse/gravity-spy/talk/subjects/2211640,,,,0,0,0,0,0,0,0,0
+1604676265-9242,"#lfqbox
+",notes,Subject 3536883,/projects/zooniverse/gravity-spy/talk/subjects/3536883;/projects/zooniverse/gravity-spy/talk/tags/lfqbox,,,,0,0,0,0,0,0,0,0
+1604731462-7726,"The total span of the curve is about 1100Hz to just under 1000 Hz
+",notes,Subject 5858819,,,,,0,0,0,0,0,0,0,0
+1604694443-2040,"#fly
+",notes,Subject 3822185,/projects/zooniverse/gravity-spy/talk/subjects/3822185;/projects/zooniverse/gravity-spy/talk/tags/fly,,,,1,0,0,1,0,1,0,0
+1604558387-1697,"This is an HFB500, also known as #pizzicato for their hypothetical relationship to violin mode resonances.  This is already a proposed new glitch class. Thanks for flagging it! They also come in versions near 1024Hz and (rarely) at both 512 and 1024Hz simultaneously.
+",notes,Subject 39548333,/projects/zooniverse/gravity-spy/talk/tags/pizzicato;/projects/zooniverse/gravity-spy/talk/762/935664,,TRUE,,0,0,0,0,0,0,0,0
+1604520058-2722,"#repeatingblips
+",notes,Subject 5848911,/projects/zooniverse/gravity-spy/talk/tags/repeatingblips,,,,0,0,0,0,0,0,0,0
+1604748161-13839,"baby koi with one arm
+",notes,Subject 10647509,/projects/zooniverse/gravity-spy/talk/subjects/10647509,,,,0,0,0,0,0,0,0,0
+1604763287-13316,"#lowfrequencysplatter
+",notes,Subject 3817936,/projects/zooniverse/gravity-spy/talk/subjects/3817936;/projects/zooniverse/gravity-spy/talk/tags/lowfrequencysplatter,,,,0,0,0,0,0,0,0,0
+1604548110-427,"#mast
+",notes,Subject 38043097,/projects/zooniverse/gravity-spy/talk/subjects/38043097;/projects/zooniverse/gravity-spy/talk/tags/mast,,,,0,0,0,0,0,0,0,0
+1604707168-909,"#mid frequency ripples
+",notes,Subject 3829224,/projects/zooniverse/gravity-spy/talk/subjects/3829224;/projects/zooniverse/gravity-spy/talk/tags/mid,,,,0,0,0,0,1,0,0,0
+1604775623-15069,"Lower frequency scratchy maybe?
+",notes,Subject 3540225,,,,,1,0,1,0,0,1,0,0
+1604550343-776,"Unsure about this one. At the top of the spectrogram xy plot it appears to be quite obviously a whistle (of some sort or another). However, at the bottom half of the plot on the cartesian/coordinate plane, the trailing off and the inconsistency of the glitch troubles and confuses me (I have only been doing Gravity Spy for a short while as of now). I ultimately decided that the glitch appeared to be more of the whistle sort than the blip sort. Just wanted to point out my own confusion for the resource of others.
+Also, if anyone would be willing to reach out and provide some assistance to me regarding better identifying glitches, I would definitely appreciate that. Thanks!
+",notes,Subject 40126721,/projects/zooniverse/gravity-spy/talk/subjects/40126721,,,,0,0,1,0,0,0,0,0
+1604745498-12981,"I think just a #1080 but a bit of #helix in there too,
+",notes,Subject 5797761,/projects/zooniverse/gravity-spy/talk/subjects/5797761;/projects/zooniverse/gravity-spy/talk/tags/1080;/projects/zooniverse/gravity-spy/talk/tags/helix,,,,0,0,0,0,0,0,0,0
+1604529123-3128,"#repeatingblips
+",notes,Subject 5864682,/projects/zooniverse/gravity-spy/talk/subjects/5864682;/projects/zooniverse/gravity-spy/talk/tags/repeatingblips,,,,0,0,0,0,0,0,0,0
+1604881637-6577,"Another 1080 line with an amplitude envelope.
+",notes,Subject 5956891,/projects/zooniverse/gravity-spy/talk/subjects/5956891,,,,0,0,0,0,0,0,0,0
+1604538743-2305,"Very low frequency blob 16-32Hz
+",notes,Subject 25771717,,,,,0,0,0,0,0,0,0,0
