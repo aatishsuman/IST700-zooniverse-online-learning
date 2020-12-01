@@ -1,0 +1,11 @@
+,Expression of emotions,Use of humor,Self-disclosure,Referring explicitly to others' messages,Asking questions,"Complimenting, expressing appreciation or criticism",Expressing agreement or disagreement,Vocatives,Addresses or refers to the group using inclusive pronouns,"Phatics, salutations"
+Expression of emotions,1,,,,,,,,,
+Use of humor,0.36240157,1,,,,,,,,
+Self-disclosure,0.397027951,0.428671308,1,,,,,,,
+Referring explicitly to others' messages,0.269392836,0.21630291,0.445259683,1,,,,,,
+Asking questions,-0.02125033,-0.015970413,0.057671646,0.035119378,1,,,,,
+"Complimenting, expressing appreciation or criticism",0.184838215,-0.018525759,0.31859152,0.293282922,-0.032945713,1,,,,
+Expressing agreement or disagreement,0.165132079,0.114250282,0.218171492,0.22390032,0.000225563,0.136760412,1,,,
+Vocatives,0.160077611,0.160717871,0.349098377,0.704692301,0.079819576,0.150770964,0.132330326,1,,
+Addresses or refers to the group using inclusive pronouns,0.191804745,0.11510369,0.319596532,0.240874195,0.035467724,0.203485366,0.162955936,0.172189553,1,
+"Phatics, salutations",0.246410234,0.231844971,0.304774113,0.333266908,0.009996687,0.328947875,0.119496643,0.295008375,0.15383406,1
